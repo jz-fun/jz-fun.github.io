@@ -13,7 +13,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 ##  Activities
 * Organiser: DCE Reading Group in The Alan Turing Institute (2020 - 2021)
-* Reviewer: NeurIPS, AISTATS, UAI
+* PC Memember/Reviewer: NeurIPS, AISTATS, UAI
 
 
 ## Publication
