@@ -27,7 +27,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 
 ## Talk/Presentation
-*   Oral presentation at SIAM UKIE National Student Chapter Conference, 2023, Oxford, UK.
+*   Oral presentation at SIAM UKIE National Student Chapter Conference, 2023, UK.
 *   Talk at topic-contributed sessions of _Joint Statistical Meetings_, 2022, USA.
 *   Talk at _SIAM Conference on Uncertainty Quantification_, 2022, USA.
 *   Poster at _AI UK 2022_, 2022, UK.
