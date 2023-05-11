@@ -37,13 +37,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 *   Talk at _Data-Centric Engineering Seminars_ @ The Alan Turing Institue, 2021, UK.
 
 
-## Selected Award
-* Costas Goutis Prize, Dept. of Stats., UCL, 2023.
-* Best Student Paper Award from ASA Section on Bayesian Statistical Science (SBSS), 2022.
-* Silver Medal for Best poster at the conference Bristol: FRY, 2021.
-* The Alan Turing Institute Enrichment Award, 2021.
-* EPSRC PhD Scholarship, 2019-2023.
-* Cambridge International Scholarship (PhD), 2019-2022.
+
 
 
 
