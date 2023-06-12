@@ -18,7 +18,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 
 ## Working Paper
-* Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functionals. [(Preprint)](https://arxiv.org/abs/2305.12996)
+* Li, K., __Sun, Z.__ (2023). Multilevel Control Functionals. [(Preprint)](https://arxiv.org/abs/2305.12996)
 
 ## Publication
 * __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. Accepted for publication In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Preprint)](https://arxiv.org/abs/2303.04756)
