@@ -29,7 +29,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 *   Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. __IEEE Transactions on Image Processing__.
 
 ## Workshop Papers
-* Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. __ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling__. [(Preprint)](https://arxiv.org/abs/2305.12996)
+* Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Preprint)](https://arxiv.org/abs/2305.12996)
 
 
 
