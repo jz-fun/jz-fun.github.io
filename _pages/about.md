@@ -30,6 +30,7 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 ## Workshop Paper
 * Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Preprint)](https://arxiv.org/abs/2305.12996)
+    * This paper was also accepted at ICML 2023 Workshop on Computational Biology.
 
 
 
