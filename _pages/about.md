@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, and I have obtained my PhD at UCL. I was lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research was mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, meta-learning,  Stein's method, kernel methods and Gaussian processes. 
+My name is Z. Sun, and I have obtained my PhD at UCL. I was based in [FSML group of UCL](https://fsml-ucl.github.io/#people), and was lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research was mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, meta-learning,  Stein's method, kernel methods and Gaussian processes. 
 
 
 
