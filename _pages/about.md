@@ -21,11 +21,10 @@ Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and D
   
 ## 📢 Recruitment
 I am looking for
- *  **PhD students** and **Master students**.  
- *  **research interns** on a long-term basis (> 3 months).
+ *  **🎓PhD students** and **📘Master students**.  
+ *  **🧑‍🔬research interns** on a long-term basis (> 3 months).
 
-
-🎓 **Expectations and Support for PhD and Master Students**
+**Expectations and Support for PhD and Master Students**
 - Good character and strong intrinsic motivation, with genuine interest in research exploration.  
   - Students are encouraged to pursue research topics that they are interested in. I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise).  
 - Satisfy at least one of the following:  
