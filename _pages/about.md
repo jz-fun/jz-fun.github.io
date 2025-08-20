@@ -7,14 +7,46 @@ redirect_from:
   - /about/
   - /about.html  
 ---
+## Efficient Machine Learning Lab @ SUFE
 
-My name is Z. Sun, and I have obtained my PhD at UCL. I was based in [FSML group](https://fsml-ucl.github.io/#people) of UCL, and was lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research was mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, meta-learning,  Stein's method, kernel methods and Gaussian processes. 
+
+Welcome to Zhuo's Lab! This lab is called Efficient Machine Learning Lab. We have and will focuse on developing novel and efficient learning algoritms for both **artificial intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and **theoretical machine learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
+
+
+Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. Before joining the lovely family of SUFE, he was a senior research scientist at Huawei, working on post-training & model compression of large language models. Previously, he received his Ph.D. in Machine Learning and Computational Statisttics from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
+
+
+# 📢 Recruitment
+I am looking for several **PhD students** and **Master students**.  
+I also welcome **research interns on a long-term basis**.
+
+---
+
+## 🎓 Expectations for PhD and Master Students
+- Good character and strong intrinsic motivation, with genuine interest in research exploration  
+  (students are encouraged to pursue research topics they are interested in — I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise).  
+- Satisfy at least one of the following:  
+  - Solid mathematical background (especially in probability and statistics)  
+  - Strong programming skills (Python, PyTorch)
+
+---
+
+## 📘 Expectations for Master Students
+- **For students interested in academia**  
+  - I will guide you together with PhD students in research projects, and support your further academic development.  
+- **For students interested in industry**  
+  - I can recommend you for internships in leading research divisions related to our field (e.g., Huawei, StepFun, AntGroup ...).  
+
+---
+
+📩 If you are interested in the above research directions, please feel free to contact me:  
+**Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
 
 
 
 ##  Activities
-* Co-Organiser: S-DCE Reading Group in The Alan Turing Institute (2021 - 2022)
-* PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI
+* Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
+* PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Neurocomputing, Expert Systems with Applications
 
 
 
