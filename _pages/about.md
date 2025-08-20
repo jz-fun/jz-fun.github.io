@@ -17,7 +17,6 @@ Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and D
 
 ---
 
-<div style="background-color:#e6f4ff; padding:15px; border-radius:10px;">
 
 ## 📢 Recruitment
 I am looking for
@@ -42,7 +41,7 @@ I am looking for
 📩 If you are interested in the above research directions, please feel free to contact me:  
 **Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
 
-</div>
+
 
 ---
 
