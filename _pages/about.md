@@ -10,15 +10,17 @@ redirect_from:
 ## Efficient Machine Learning Lab @ SUFE
 
 
-Welcome to Zhuo's Lab! This lab is called Efficient Machine Learning Lab. We have and will focus on developing novel and efficient learning algoritms for both **artificial intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and **theoretical machine learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
+Welcome to Zhuo's Lab! This lab is called Efficient Machine Learning Lab. We have and will focus on developing novel and efficient learning algoritms for both：
+- **artificial intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
+- **theoretical machine learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
 
 
-Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. Before joining the lovely family of SUFE, he was a senior research scientist at Huawei, working on **post-training & model compression of large language models**. Previously, he received his Ph.D. in Machine Learning and Computational Statistics on **Variational Inference, Meta-learning, Computational Statistics** from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
+Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. 
+- Before joining the lovely family of SUFE, he was a senior research scientist at Huawei, working on **post-training & model compression of large language models**.
+- Previously, he received his Ph.D. in Machine Learning and Computational Statistics on **variational inference, meta-learning, Monte Carlo...** from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
 
 ---
-
 <div markdown="1" style="background-color:#e6f4ff; padding:16px; border-radius:10px; line-height:1.7;">
-  
 ## 📢 Recruitment
 I am looking for
  *  **🎓PhD students** and **📘Master students**.  
@@ -40,7 +42,6 @@ I am looking for
 
 📩 If you are interested in the above research directions, please feel free to contact me:  
 **Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
-
 </div>
 
 
