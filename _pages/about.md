@@ -26,15 +26,15 @@ I am looking for
 
 
 🎓 **Expectations and Support for PhD and Master Students**
-- Good character and strong intrinsic motivation, with genuine interest in research exploration  
+- Good character and strong intrinsic motivation, with genuine interest in research exploration.  
   - Students are encouraged to pursue research topics that they are interested in. I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise).  
 - Satisfy at least one of the following:  
-  - Solid mathematical background (especially in probability and statistics)  
-  - Strong programming skills (Python, PyTorch)
+  - Solid mathematical background (especially in probability and statistics) ; 
+  - Strong programming skills (Python, PyTorch) .
 
-- For students interested in academia
+- For students interested in academia:
   - I will guide you together with PhD students in research projects, and support your further academic development.  
-- For students interested in industry  
+- For students interested in industry:  
   - I can recommend you for internships in leading research divisions related to our field (e.g., Huawei, StepFun, AntGroup ...).  
 
 
