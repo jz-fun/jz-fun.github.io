@@ -17,10 +17,9 @@ Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and D
 - Previously, he received his Ph.D. in Machine Learning and Computational Statistics on **variational inference, meta-learning, Monte Carlo...** from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
 
 ---
-<div markdown="1" style="background-color:#e6f4ff; padding:16px; border-radius:10px; line-height:1.7;">
   
 ## 📢 Recruitment
-I am looking for
+I am looking for:
  *  **🎓PhD students** and **📘Master students**.  
  *  **🧑‍🔬research interns** on a long-term basis (> 3 months).
 
@@ -45,8 +44,6 @@ I am looking for
 * PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Neurocomputing, Expert Systems with Applications
 
 
-
-
 ## Publication
 * __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
     * This paper was accepted for an oral presentation at UAI, [top 3%]().
@@ -57,8 +54,6 @@ I am looking for
 *   __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (__AISTATS 2021__).[(Conference)](https://proceedings.mlr.press/v130/sun21a.html)
 *   Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. (2021). A Concise Review of Recent Few-shot Meta-learning Methods. __Neurocomputing__.
 *   Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. __IEEE Transactions on Image Processing__.
-
-
 
 
 
