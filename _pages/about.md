@@ -9,7 +9,6 @@ redirect_from:
 ---
 ## Efficient Machine Learning Lab @ SUFE
 
-
 Welcome to Zhuo's Lab! This lab is called Efficient Machine Learning Lab. We have and will focus on developing novel and efficient learning algoritms for both：
 - **artificial intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
 - **theoretical machine learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
@@ -43,10 +42,7 @@ I am looking for
 📩 If you are interested in the above research directions, please feel free to contact me:  
 **Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
 </div>
-
-
 ---
-
 ##  Activities
 * Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
 * PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Neurocomputing, Expert Systems with Applications
