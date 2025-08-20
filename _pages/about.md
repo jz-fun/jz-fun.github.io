@@ -18,29 +18,28 @@ Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and D
 
 ---
 <div markdown="1" style="background-color:#e6f4ff; padding:16px; border-radius:10px; line-height:1.7;">
+  
 ## 📢 Recruitment
 I am looking for
  *  **🎓PhD students** and **📘Master students**.  
  *  **🧑‍🔬research interns** on a long-term basis (> 3 months).
 
-**Expectations and Support for PhD and Master Students**
+**Expectations and Support for PhD and Master Students:**
 - Good character and strong intrinsic motivation, with genuine interest in research exploration.  
-  - Students are encouraged to pursue research topics that they are interested in. I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise).  
 - Satisfy at least one of the following:  
   - Solid mathematical background (especially in probability and statistics) ; 
   - Strong programming skills (Python, PyTorch) .
 
-- For students interested in academia:
-  - I will guide you together with PhD students in research projects, and support your further academic development.  
-- For students interested in industry:  
-  - I can recommend you for internships in leading research divisions related to our field (e.g., Huawei, StepFun, AntGroup ...).  
-
-
+**What you can expect:**
+  - Students are encouraged to pursue research topics that they are interested in. I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise).  
+  - For students interested in academia, I will guide you in research projects and collaborations, and support your further academic development.  
+  - For students interested in industry, I can recommend you for internships in leading research divisions related to our field (e.g., Huawei, StepFun, AntGroup ...).  
 
 📩 If you are interested in the above research directions, please feel free to contact me:  
 **Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
 </div>
 ---
+
 ##  Activities
 * Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
 * PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Neurocomputing, Expert Systems with Applications
