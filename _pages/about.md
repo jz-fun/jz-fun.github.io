@@ -8,8 +8,8 @@ redirect_from:
   - /about.html  
 ---
 Welcome to Zhuo's Lab! This lab is called Efficient Machine Learning Lab. We have and will focus on developing novel and efficient learning algoritms for both：
-- **artificial intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
-- **theoretical machine learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
+- **Artificial Intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
+- **Theoretical Machine Learning** (e.g. Variational Inference, Stein's method, Gaussian processes ...) problems! 
 
 
 Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. 
