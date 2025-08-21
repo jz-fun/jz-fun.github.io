@@ -13,8 +13,8 @@ Welcome to Zhuo's Lab, wnich is called **Super Efficient Machine Learning Lab**.
 
 
 Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. 
-- Before joining the lovely family of SUFE, he was a senior research scientist at Huawei, working on __post-training & model compression_ of large language models.
-- Previously, he received his Ph.D. in Machine Learning and Computational Statistics on __variational inference, meta-learning, Monte Carlo..._ from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
+- Before joining the lovely family of SUFE, he was a senior research scientist at Huawei, working on **post-training & model compression** of large language models.
+- Previously, he received his Ph.D. in Machine Learning and Computational Statistics on **variational inference & meta-learning & Monte Carlo...** from University College London and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
 
 ---
   
