@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html  
 ---
-Welcome to Zhuo's Lab, wnich is called **Super Efficient Machine Learning Lab**. We are focusing on developing novel and efficient learning algoritms for both：
+Welcome to Zhuo's Lab, wnich is called **Efficient Machine Learning Lab**. We are focusing on developing novel and efficient learning algoritms for both：
 - **Artificial Intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
-- **Theoretical Machine Learning** (e.g. Variational Inference, Theorys for Transfer Learning, Stein's method, Gaussian processes ...) problems! 
+- **Theoretical Machine Learning** (e.g. Monte Carlo, Variational Inference, Theorys for Transfer Learning, Stein's method, Gaussian processes ...) problems! 
 
 
 Zhuo Sun is a tenure-track Assistant Professor in the School of Statistics and Data Science at the Shanghai University of Finance and Economics, starting from July 2025. 
@@ -44,7 +44,6 @@ I am looking for:
 
 
 ## Publication
-* Multilevel Control Functional: Extended. Submitted. 2025
 * __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
     * This paper was accepted for an oral presentation at UAI, [top 3%]().
 * Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Preprint)](https://arxiv.org/abs/2305.12996)
