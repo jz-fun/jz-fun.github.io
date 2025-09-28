@@ -44,7 +44,7 @@ I am looking for:
 
 
 ## Publication
-* More preprints are on the way!!
+* Multilevel Control Functional: Extended. Submitted. 2025
 * __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
     * This paper was accepted for an oral presentation at UAI, [top 3%]().
 * Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Preprint)](https://arxiv.org/abs/2305.12996)
