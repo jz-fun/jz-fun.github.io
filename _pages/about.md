@@ -62,6 +62,7 @@ I am looking for:
 
 
 ## Talk/Presentation
+*   Talk at University of Science and Technology of China，Nov., 2025, China.
 *   Talk at _UAI_, 2023, USA.
 *   Poster at _ICML_, 2023, USA.
 *   Talk at _SIAM UKIE National Student Chapter Conference_, 2023, UK.
