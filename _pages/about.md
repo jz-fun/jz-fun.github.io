@@ -46,18 +46,18 @@ I am looking for:
 
 
 ## Publication
-* Li, K., Yang, Y., Chen, X., He, Y., __Sun, Z.\+__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996)
-* Cheng, X., Yang, Y., Jiang, W., Yuan, C., __Sun, Z.__, Hu, Y. (2025). From Embedding to Control: Representations for Stochastic Multi-Object Systems.
-* Cheng, X., Yuan, W., Yang, Y., Zhang, Y., Cheng, S., He, Y.,  __Sun, Z.\+__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
-* __Sun, Z.\+__ 📩, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
+* Li, K., Yang, Y., Chen, X., He, Y., __Sun, Z.__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996)
+* Cheng, X., Yang, Y., Jiang, W., Yuan, C., __Sun, Z.__, Hu, Y. 📩(2025). From Embedding to Control: Representations for Stochastic Multi-Object Systems.
+* Cheng, X., Yuan, W., Yang, Y., Zhang, Y., Cheng, S., He, Y.,  __Sun, Z.__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
+* __Sun, Z.__ 📩, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
     * This paper was accepted for an oral presentation at UAI, [top 3%]().
-* Li, K.\*, __Sun, Z.\*+__ 📩 (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Workshop)](https://openreview.net/pdf?id=8buHq9xP6F)
+* Li, K.*, __Sun, Z.\*__ 📩 (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Workshop)](https://openreview.net/pdf?id=8buHq9xP6F)
     * This paper was also accepted at ICML 2023 Workshop on Computational Biology.
-*   __Sun, Z.__, Barp, A., Briol, F.-X.(2023). Vector-valued Control Variates. In Proceedings of the 40th International Conference on Machine Learning (__ICML 2023__).  [(Conference)](https://proceedings.mlr.press/v202/sun23a.html)[(Preprint)](https://arxiv.org/abs/2109.08944)
+*   __Sun, Z.__, Barp, A., Briol, F.-X. 📩(2023). Vector-valued Control Variates. In Proceedings of the 40th International Conference on Machine Learning (__ICML 2023__).  [(Conference)](https://proceedings.mlr.press/v202/sun23a.html)[(Preprint)](https://arxiv.org/abs/2109.08944)
     * This paper was awarded a Best Student Paper Award from SBSS of the American Statistical Association in 2022.
-*   __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (__AISTATS 2021__).[(Conference)](https://proceedings.mlr.press/v130/sun21a.html)
-*   Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. (2021). A Concise Review of Recent Few-shot Meta-learning Methods. __Neurocomputing__.
-*   Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. __IEEE Transactions on Image Processing__.
+*   __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H. 📩(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (__AISTATS 2021__).[(Conference)](https://proceedings.mlr.press/v130/sun21a.html)
+*   Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. 📩(2021). A Concise Review of Recent Few-shot Meta-learning Methods. __Neurocomputing__.
+*   Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H. 📩(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. __IEEE Transactions on Image Processing__.
 
 
 
