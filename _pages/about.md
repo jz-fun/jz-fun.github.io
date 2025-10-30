@@ -49,9 +49,9 @@ I am looking for:
 * Li, K., Yang, Y., Chen, X., He, Y., __Sun, Z.\+__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996)
 * Cheng, X., Yang, Y., Jiang, W., Yuan, C., __Sun, Z.__, Hu, Y. (2025). From Embedding to Control: Representations for Stochastic Multi-Object Systems.
 * Cheng, X., Yuan, W., Yang, Y., Zhang, Y., Cheng, S., He, Y.,  __Sun, Z.\+__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
-* __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
+* __Sun, Z.\+__ 📩, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
     * This paper was accepted for an oral presentation at UAI, [top 3%]().
-* Li, K.\*, __Sun, Z.\*__ (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Workshop)](https://openreview.net/pdf?id=8buHq9xP6F)
+* Li, K.\*, __Sun, Z.\*+__ 📩 (2023). Multilevel Control Functional. ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. [(Workshop)](https://openreview.net/pdf?id=8buHq9xP6F)
     * This paper was also accepted at ICML 2023 Workshop on Computational Biology.
 *   __Sun, Z.__, Barp, A., Briol, F.-X.(2023). Vector-valued Control Variates. In Proceedings of the 40th International Conference on Machine Learning (__ICML 2023__).  [(Conference)](https://proceedings.mlr.press/v202/sun23a.html)[(Preprint)](https://arxiv.org/abs/2109.08944)
     * This paper was awarded a Best Student Paper Award from SBSS of the American Statistical Association in 2022.
@@ -63,7 +63,7 @@ I am looking for:
 
 
 ## Talk/Presentation
-*   Talk at University of Science and Technology of China, 2025, China.
+*   Talk at _University of Science and Technology of China_, 2025, China.
 *   Talk at _UAI_, 2023, USA.
 *   Poster at _ICML_, 2023, USA.
 *   Talk at _SIAM UKIE National Student Chapter Conference_, 2023, UK.
