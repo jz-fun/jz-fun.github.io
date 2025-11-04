@@ -79,8 +79,10 @@ I am looking for:
 
 
 
-
-
+## Teaching:
+* Bayesian Decision (Undergraduate-level Course)
+* Bayesian Networks and Machine Learning (Postgraduate-level Course)
+* Bayesian Statistics (PhD-level Course)
 
 
 
