@@ -41,7 +41,7 @@ I am looking for:
 
 ##  Activities�
 * Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
-* PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Neurocomputing, Expert Systems with Applications, ...
+* PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, Expert Systems with Applications, Journal of Computational and Graphical Statistics, Neurocomputing,...
 
 
 
