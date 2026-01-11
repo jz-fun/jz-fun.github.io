@@ -21,7 +21,6 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 ## 📢 Recruitment
 I am looking for:
  *  **🎓PhD students** and **📘Master students**.  
- *  **🧑‍🔬research interns** on a long-term basis (> 3 months).
 
 **Expectations and Support for PhD and Master Students:**
 - Good character and strong intrinsic motivation, with genuine interest in research exploration.  
@@ -37,7 +36,7 @@ I am looking for:
 
 ---
 
-##  Activities�
+##  Activities 🧗
 * Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
 * PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, ...
 
@@ -64,6 +63,7 @@ I am looking for:
 
 
 ## Talk/Presentation 🎤
+*   Talk at _Annual Meeting of the National Association of Young Statisticians_, 2026, China.
 *   Talk at _University of Science and Technology of China_, 2025, China.
 *   Talk at _UAI_, 2023, USA.
 *   Poster at _ICML_, 2023, USA.
