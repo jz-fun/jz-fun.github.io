@@ -64,7 +64,6 @@ I am looking for:
 
 ## Talk/Presentation 🎤
 *   Talk at _Annual Meeting of the National Association of Young Statisticians_, 2026, China.
-*   Talk at _University of Science and Technology of China_, 2025, China.
 *   Talk at _UAI_, 2023, USA.
 *   Poster at _ICML_, 2023, USA.
 *   Talk at _SIAM UKIE National Student Chapter Conference_, 2023, UK.
