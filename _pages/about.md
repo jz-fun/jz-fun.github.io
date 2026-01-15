@@ -63,17 +63,18 @@ I am looking for:
 
 
 ## Talk/Presentation 🎤
-*   Talk at _Annual Meeting of the National Association of Young Statisticians_, 2026, China.
-*   Talk at _UAI_, 2023, USA.
-*   Poster at _ICML_, 2023, USA.
-*   Talk at _SIAM UKIE National Student Chapter Conference_, 2023, UK.
-*   Poster at _the 7th London Symposium of Information Theory (LSIT)_, 2023, UK.
-*   Talk at topic-contributed sessions of _Joint Statistical Meetings_, 2022, USA.
-*   Talk at _SIAM Conference on Uncertainty Quantification_, 2022, USA.
-*   Poster at the _AI UK_, 2022, UK.
-*   Talk at _International Conference on Monte Carlo Methods and Applications_ (Special Session on Stein's method), 2021, German.
-*   Poster at _AISTATS_, 2021, USA.
-*   Talk at _Data-Centric Engineering Seminars_ @ The Alan Turing Institue, 2021, UK.
+*   Talk at _Workshop on Learning Dynamical Systems_, Kyoto University, Japan, 2026.
+*   Talk at _Annual Meeting of the National Association of Young Statisticians_, China, 2026.
+*   Talk at _UAI_, USA, 2023.
+*   Poster at _ICML_, USA, 2023.
+*   Talk at _SIAM UKIE National Student Chapter Conference_, UK, 2023.
+*   Poster at _the 7th London Symposium of Information Theory (LSIT)_, UK, 2023.
+*   Talk at topic-contributed sessions of _Joint Statistical Meetings_, USA, 2022.
+*   Talk at _SIAM Conference on Uncertainty Quantification_, USA, 2022.
+*   Poster at the _AI UK_, UK, 2022.
+*   Talk at _International Conference on Monte Carlo Methods and Applications_ (Special Session on Stein's method), German, 2021.
+*   Poster at _AISTATS_, USA, 2021.
+*   Talk at _Data-Centric Engineering Seminars_ @ The Alan Turing Institue, UK, 2021.
 
 
 
