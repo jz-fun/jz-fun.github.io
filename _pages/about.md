@@ -13,7 +13,7 @@ Welcome to Zhuo's Lab, wnich is called **Efficient Machine Learning Lab**. We ar
 
 
 Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics and Data Science at the Shanghai University of Finance and Economics. 
-- Visiting Reseacher (honorable) at Imperial College London, collaborating with Prof. Harrison Bohua Zhu, Prof. Yingzhen Li and Prof. Samir Bhatt.
+- Visiting Reseacher at Imperial College London, collaborating with Prof. Harrison Bohua Zhu, Prof. Yingzhen Li and Prof. Samir Bhatt.
 - Ph.D. in Machine Learning and Computational Statistics: on variational inference & meta-learning & Monte Carlo... from University College London (supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue) and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
 
 ---
