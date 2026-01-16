@@ -63,8 +63,6 @@ I am looking for:
 
 
 ## Talk/Presentation 🎤
-*   Talk at _Annual Meeting of the National Association of Young Statisticians_, China, 2026.
-*   Talk at _Workshop on Learning Dynamical Systems_, Kyoto University, Japan, 2026.
 *   Talk at _UAI_, USA, 2023.
 *   Poster at _ICML_, USA, 2023.
 *   Talk at _SIAM UKIE National Student Chapter Conference_, UK, 2023.
