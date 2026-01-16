@@ -13,7 +13,7 @@ Welcome to Zhuo's Lab, wnich is called **Efficient Machine Learning Lab**. We ar
 
 
 Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics and Data Science at the Shanghai University of Finance and Economics. 
-- Visiting Reseacher at Imperial College London, collaborating with Prof. Harrison Bohua Zhu, Prof. Yingzhen Li and Prof. Samir Bhatt.
+- Visiting Reseacher (honorable) at Imperial College London, collaborating with Prof. Harrison Bohua Zhu, Prof. Yingzhen Li and Prof. Samir Bhatt.
 - Ph.D. in Machine Learning and Computational Statistics: on variational inference & meta-learning & Monte Carlo... from University College London (supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue) and a master degree in statistical science from University of Oxford. He is looking for self-motivated PhD/Master/Interns.
 
 ---
@@ -47,7 +47,7 @@ I am looking for:
   
 
 * Li, K.; Yang, Y.; Chen, X.; He, Y.; __Sun, Z.__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996)
-* Cheng, X. 📩; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; __Sun, Z.__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
+* Cheng, X. ; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; __Sun, Z.__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
 * Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; __Sun, Z.__; Hu, Y. (2025). From Embedding to Control: Representations for Stochastic Multi-Object Systems.[(Preprint)](https://arxiv.org/abs/2510.26344)
 * __Sun, Z.__ ; Oates, C. J; Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
      * This paper was accepted for an oral presentation at UAI, [top 3%]().
@@ -77,7 +77,6 @@ I am looking for:
 
 
 ## Teaching:
-* Bayesian Decision (Undergraduate-level Course)
 * Bayesian Networks and Machine Learning (Postgraduate-level Course)
 * Bayesian Statistics (PhD-level Course)
 
