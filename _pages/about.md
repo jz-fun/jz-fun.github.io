@@ -38,7 +38,7 @@ I am looking for:
 
 ##  Activities 🧗
 * Co-Organiser: S-DCE Reading Group in The Alan Turing Institute
-* PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, ...
+* PC Memember/Reviewer: AISTATS, ICLR, ICML, NeurIPS, UAI, ...
 
 
 <style>
