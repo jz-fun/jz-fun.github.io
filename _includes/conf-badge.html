@@ -1,0 +1,6 @@
+{% assign conf = include.conference | downcase %}
+{% if conf contains 'iclr' %}
+    <span class="conf-badge iclr">{{ include.conference }}</span>
+{% elsif conf contains 'neurips' %}
+    <span class="conf-badge neurips">{{ include.conference }}</span>
+{% endif %}
