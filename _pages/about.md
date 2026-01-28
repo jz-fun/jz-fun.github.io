@@ -185,7 +185,7 @@ I am looking for:
 
 <div class="paper-entry">
     <div class="conf-badge">
-        <div>ICLR</div>
+        <div>UAI</div>
         <div class="year">26</div>
     </div>
     <div class="paper-info">
@@ -203,7 +203,7 @@ I am looking for:
 
 <div class="paper-entry">
     <div class="conf-badge">
-        <div>ICLR</div>
+        <div>ICML SPIGM</div>
         <div class="year">26</div>
     </div>
     <div class="paper-info">
@@ -221,7 +221,7 @@ I am looking for:
 
 <div class="paper-entry">
     <div class="conf-badge">
-        <div>ICLR</div>
+        <div>ICML</div>
         <div class="year">26</div>
     </div>
     <div class="paper-info">
