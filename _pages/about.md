@@ -130,7 +130,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICLR</div>
-        <div class="year">26</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2025). 
@@ -148,7 +148,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICLR</div>
-        <div class="year">26</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <strong>Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; Sun, Z.</strong> 📩 (2025). 
@@ -167,7 +167,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICLR</div>
-        <div class="year">26</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <strong>Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; Sun, Z.; Hu, Y.</strong> (2025). 
@@ -186,7 +186,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>UAI</div>
-        <div class="year">23</div>
+        <div class="year">2023</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Oates, C. J; Briol, F-X.</strong> (2023). 
@@ -204,7 +204,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICML SPIGM</div>
-        <div class="year">23</div>
+        <div class="year">2023</div>
     </div>
     <div class="paper-info">
         <strong>Li, K.*; Sun, Z.*</strong> 📩 (2023). 
@@ -218,7 +218,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICML</div>
-        <div class="year">23</div>
+        <div class="year">2023</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Barp, A.; Briol, F.-X.</strong> (2023). 
@@ -237,7 +237,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>AISTATS</div>
-        <div class="year">23</div>
+        <div class="year">2023</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Wu, J.; Li, X.; Yang, W.; Xue, J-H.</strong> (2023). 
