@@ -237,7 +237,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>AISTATS</div>
-        <div class="year">2023</div>
+        <div class="year">2021</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Wu, J.; Li, X.; Yang, W.; Xue, J-H.</strong> (2023). 
