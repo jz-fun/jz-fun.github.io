@@ -41,58 +41,85 @@ I am looking for:
 * PC Memember/Reviewer: AISTATS, ICLR, NeurIPS, UAI, ...
 
 
-
 <style>
-.paper-with-icon {
+/* 论文条目容器 */
+.paper-entry {
     display: flex;
     align-items: flex-start;
-    margin: 20px 0;
-    gap: 15px;
+    margin: 0.8rem 0;
+    gap: 0.8rem;
 }
 
-.conference-icon {
+/* 会议图标 */
+.conf-badge {
     flex-shrink: 0;
-    width: 50px;
-    height: 50px;
+    width: 2.8rem;
+    height: 2.8rem;
     background: linear-gradient(135deg, #4285f4, #1a73e8);
     color: white;
-    border-radius: 10px;
+    border-radius: 0.4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-weight: bold;
-    font-size: 12px;
-    box-shadow: 0 4px 10px rgba(66, 133, 244, 0.25);
+    font-weight: 700;
+    font-size: 0.7rem;
+    box-shadow: 0 0.15rem 0.4rem rgba(66, 133, 244, 0.25);
 }
 
-.conference-icon .year {
-    font-size: 10px;
+.conf-badge .year {
+    font-size: 0.6rem;
     opacity: 0.9;
-    margin-top: 2px;
+    margin-top: 0.05rem;
 }
 
-.paper-content {
+/* 论文内容 - 紧凑字体 */
+.paper-info {
     flex: 1;
-    padding: 12px 18px;
+    padding: 0.5rem 0.8rem;
     background: #f8f9fa;
-    border-radius: 8px;
-    border-left: 3px solid #4285f4;
+    border-radius: 0.3rem;
+    border-left: 0.12rem solid #4285f4;
+    font-size: 0.8rem;  /* 约12.8px */
+    line-height: 1.4;
+}
+
+/* 让加粗部分更明显但不增大太多 */
+.paper-info strong {
+    font-weight: 600;
+    font-size: 0.82rem;
+}
+
+/* 斜体标题 */
+.paper-info em {
+    font-style: italic;
+    color: #1a237e;
+    font-size: 0.85rem;
+}
+
+/* 手机端优化 */
+@media (max-width: 768px) {
+    .paper-entry {
+        gap: 0.6rem;
+    }
+    .paper-info {
+        font-size: 0.75rem;
+        padding: 0.4rem 0.6rem;
+    }
 }
 </style>
-
 
 ## Publications (& Preprints) 📖
 <small> * equal contribution; 📩 corresponding author <small>
 
-<div class="paper-with-icon">
-    <div class="conference-icon">
+<div class="paper-entry">
+    <div class="conf-badge">
         <div>ICLR</div>
-        <div class="year">2026</div>
+        <div class="year">26</div>
     </div>
-    <div class="paper-content">
-        **Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.** 📩 (2025). 
-        *Multilevel Control Functional.* In International Conference on Learning Representations (ICLR 2026).
+    <div class="paper-info">
+        <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2025). 
+        <em>Multilevel Control Functional.</em> In International Conference on Learning Representations (ICLR 2026).
     </div>
 </div>
 
