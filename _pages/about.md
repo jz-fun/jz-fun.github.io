@@ -137,7 +137,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">Multilevel Control Functional.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">PDF</a>]
+            [<a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">Preprint</a>]
             [<a href="https://github.com/username/project" target="_blank">Code</a>]
         </span>
     </div>
@@ -155,7 +155,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">Information Shapes Koopman Representation.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">PDF</a>]
+            [<a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">Preprint</a>]
             [<a href="https://github.com/username/project" target="_blank">Code</a>]
         </span>
     </div>
@@ -174,7 +174,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">From Embedding to Control: Representations for Stochastic Multi-Object Systems.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">PDF</a>]
+            [<a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">Preprint</a>]
             [<a href="https://github.com/username/project" target="_blank">Code</a>]
         </span>
     </div>
@@ -193,8 +193,8 @@ I am looking for:
         <em><a class="paper-link" href="https://proceedings.mlr.press/v216/sun23a.html" target="_blank">Meta-learning Control Variates: Variance Reduction with Limited Data.</a></em> 
         In Conference on Uncertainty in Artificial Intelligence (UAI 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">PDF</a>]
-            [<a href="" target="_blank">Oral (top 3%)</a>]
+            [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">Preprint</a>]
+            [<a class="pdf-link" href="" target="_blank">Oral (top 3%)</a>]
         </span>
     </div>
 </div>
@@ -210,10 +210,6 @@ I am looking for:
         <strong>Li, K.*; Sun, Z.*</strong> 📩 (2023). 
         <em><a class="paper-link" href="https://openreview.net/pdf?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version).</a></em> 
         In ICML 2023 SPIGM.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">PDF</a>]
-            [<a href="" target="_blank">Code</a>]
-        </span>
     </div>
 </div>
 
@@ -248,8 +244,6 @@ I am looking for:
         <em><a class="paper-link" href="https://proceedings.mlr.press/v130/sun21a.html" target="_blank">Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification.</a></em> 
         In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics(AISTATS 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">Paper</a>]
-            [<a href="" target="_blank">Code</a>]
         </span>
     </div>
 </div>
@@ -265,10 +259,6 @@ I am looking for:
         <strong>Li, X.\*; __Sun, Z.\*__; Xue, J-H. ; Ma, Z.</strong> (2021). 
         <em><a class="paper-link" href="" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em> 
         Neurocomputing.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">Paper</a>]
-            [<a href="" target="_blank">Code</a>]
-        </span>
     </div>
 </div>
 
@@ -283,10 +273,6 @@ I am looking for:
         <strong>Li, X.\*; Wu, J.\*; Sun, Z.\*; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
         <em><a class="paper-link" href="" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em> 
         IEEE Transactions on Image Processing.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">Paper</a>]
-            [<a href="" target="_blank">Code</a>]
-        </span>
     </div>
 </div>
 
