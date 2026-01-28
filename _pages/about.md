@@ -42,9 +42,60 @@ I am looking for:
 
 
 
+<style>
+.paper-with-icon {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px 0;
+    gap: 15px;
+}
+
+.conference-icon {
+    flex-shrink: 0;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #4285f4, #1a73e8);
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 12px;
+    box-shadow: 0 4px 10px rgba(66, 133, 244, 0.25);
+}
+
+.conference-icon .year {
+    font-size: 10px;
+    opacity: 0.9;
+    margin-top: 2px;
+}
+
+.paper-content {
+    flex: 1;
+    padding: 12px 18px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 3px solid #4285f4;
+}
+</style>
+
+
 ## Publications (& Preprints) 📖
 <small> * equal contribution; 📩 corresponding author <small>
-  
+
+<div class="paper-with-icon">
+    <div class="conference-icon">
+        <div>ICLR</div>
+        <div class="year">2026</div>
+    </div>
+    <div class="paper-content">
+        **Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.** 📩 (2025). 
+        *Multilevel Control Functional.* In International Conference on Learning Representations (ICLR 2026).
+    </div>
+</div>
+
 
 * Li, K.; Yang, Y.; Chen, X.; He, Y.; __Sun, Z.__ 📩 (2025). Multilevel Control Functional. [(Preprint)](https://arxiv.org/abs/2305.12996). <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;">ICLR 2026</span>
 * Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; __Sun, Z.__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025). <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;">ICLR 2026</span>
