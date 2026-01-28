@@ -46,7 +46,7 @@ I am looking for:
 <small> * equal contribution; 📩 corresponding author <small>
   
 
-* Li, K.; Yang, Y.; Chen, X.; He, Y.; __Sun, Z.__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996) In International Conference on Learning Representations (ICLR 2026). In {{ "ICLR 2026" | conference_badge }}.
+* Li, K.; Yang, Y.; Chen, X.; He, Y.; __Sun, Z.__ 📩 (2025). Multilevel Control Functional (extended). [(Preprint)](https://arxiv.org/abs/2305.12996) In International Conference on Learning Representations (ICLR 2026).In <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;">ICLR 2026</span>.
 * Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; __Sun, Z.__ 📩 (2025). Information Shapes Koopman Representation. [(Preprint)](https://arxiv.org/abs/2510.13025)
 * Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; __Sun, Z.__; Hu, Y. (2025). From Embedding to Control: Representations for Stochastic Multi-Object Systems.[(Preprint)](https://arxiv.org/abs/2510.26344)
 * __Sun, Z.__ ; Oates, C. J; Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (__UAI 2023__). [(Conference)](https://proceedings.mlr.press/v216/sun23a.html) [(Preprint)](https://arxiv.org/abs/2303.04756)
