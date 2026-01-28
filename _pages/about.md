@@ -186,7 +186,7 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>UAI</div>
-        <div class="year">26</div>
+        <div class="year">23</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Oates, C. J; Briol, F-X.</strong> (2023). 
@@ -204,11 +204,11 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICML SPIGM</div>
-        <div class="year">26</div>
+        <div class="year">23</div>
     </div>
     <div class="paper-info">
         <strong>Li, K.*; Sun, Z.*</strong> 📩 (2023). 
-        <em><a class="paper-link" href="https://openreview.net/pdf?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version)</a></em> 
+        <em><a class="paper-link" href="https://openreview.net/pdf?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version).</a></em> 
         In ICML 2023 SPIGM.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="" target="_blank">PDF</a>]
@@ -222,11 +222,11 @@ I am looking for:
 <div class="paper-entry">
     <div class="conf-badge">
         <div>ICML</div>
-        <div class="year">26</div>
+        <div class="year">23</div>
     </div>
     <div class="paper-info">
         <strong>Sun, Z.; Barp, A.; Briol, F.-X.</strong> (2023). 
-        <em><a class="paper-link" href="https://proceedings.mlr.press/v202/sun23a.html" target="_blank">Vector-valued Control Variates</a></em> 
+        <em><a class="paper-link" href="https://proceedings.mlr.press/v202/sun23a.html" target="_blank">Vector-valued Control Variates.</a></em> 
         In Proceedings of the 40th International Conference on Machine Learning (ICML 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="" target="_blank">ASA SBSS Best Paper (2022)</a>]
@@ -235,10 +235,60 @@ I am looking for:
     </div>
 </div>
 
-*   __Sun, Z.__; Wu, J.; Li, X.; Yang, W.; Xue, J-H. (2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. [(Conference)](https://proceedings.mlr.press/v130/sun21a.html). <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;">AISTATS 2023</span>
-*   Li, X.\*; __Sun, Z.\*__; Xue, J-H. ; Ma, Z. (2021). A Concise Review of Recent Few-shot Meta-learning Methods. <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;"> Neurocomputing</span>
-*   Li, X.\*; Wu, J.\*; __Sun, Z.\*__; Ma, Z. ; Cao, J.; Xue, J-H. (2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. <span style="display: inline-block; padding: 2px 8px; background-color: #e3f2fd; color: #1565c0; border: 1px solid #90caf9; border-radius: 4px; font-size: 0.85em; font-weight: 500; margin-left: 6px;"> IEEE Transactions on Image Processing</span>
 
+
+
+<div class="paper-entry">
+    <div class="conf-badge">
+        <div>AISTATS</div>
+        <div class="year">23</div>
+    </div>
+    <div class="paper-info">
+        <strong>Sun, Z.; Wu, J.; Li, X.; Yang, W.; Xue, J-H.</strong> (2023). 
+        <em><a class="paper-link" href="https://proceedings.mlr.press/v130/sun21a.html" target="_blank">Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification.</a></em> 
+        In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics(AISTATS 2023).
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="" target="_blank">Paper</a>]
+            [<a href="" target="_blank">Code</a>]
+        </span>
+    </div>
+</div>
+
+
+
+<div class="paper-entry">
+    <div class="conf-badge">
+        <div>Neurocomputing</div>
+        <div class="year">2021</div>
+    </div>
+    <div class="paper-info">
+        <strong>Li, X.\*; __Sun, Z.\*__; Xue, J-H. ; Ma, Z.</strong> (2021). 
+        <em><a class="paper-link" href="" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em> 
+        Neurocomputing.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="" target="_blank">Paper</a>]
+            [<a href="" target="_blank">Code</a>]
+        </span>
+    </div>
+</div
+
+
+
+<div class="paper-entry">
+    <div class="conf-badge">
+        <div>IEEE TIP</div>
+        <div class="year">2020</div>
+    </div>
+    <div class="paper-info">
+        <strong>Li, X.\*; Wu, J.\*; Sun, Z.\*; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
+        <em><a class="paper-link" href="" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em> 
+        IEEE Transactions on Image Processing.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="" target="_blank">Paper</a>]
+            [<a href="" target="_blank">Code</a>]
+        </span>
+    </div>
+</div
 
 
 
