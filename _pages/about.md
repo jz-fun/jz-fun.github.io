@@ -53,7 +53,7 @@ I am looking for:
 /* 会议图标 */
 .conf-badge {
     flex-shrink: 0;
-    width: 4rem;
+    width: 6rem;
     height: 2.8rem;
     background: linear-gradient(135deg, #4285f4, #1a73e8);
     color: white;
