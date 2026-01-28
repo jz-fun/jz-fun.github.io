@@ -119,7 +119,7 @@ I am looking for:
 }
 
 .pdf-link::after {
-    content: " 📄";
+    content: "";
     opacity: 0.8;
 }
 </style>
