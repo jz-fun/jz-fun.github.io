@@ -191,7 +191,7 @@ I am looking for:
     <div class="paper-info">
         <strong>Sun, Z.; Oates, C. J; Briol, F-X.</strong> (2023). 
         <em><a class="paper-link" href="https://proceedings.mlr.press/v216/sun23a.html" target="_blank">Meta-learning Control Variates: Variance Reduction with Limited Data.</a></em> 
-        In Conference on Uncertainty in Artificial Intelligence (UAI 2023).
+        In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">Preprint</a>]
             [<a class="pdf-link" href="" target="_blank">Oral (top 3%)</a>]
