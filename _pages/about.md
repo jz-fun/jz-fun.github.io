@@ -73,39 +73,54 @@ I am looking for:
     margin-top: 0.05rem;
 }
 
-/* 论文内容 - 紧凑字体 */
+/* 论文内容 */
 .paper-info {
     flex: 1;
     padding: 0.5rem 0.8rem;
     background: #f8f9fa;
     border-radius: 0.3rem;
     border-left: 0.12rem solid #4285f4;
-    font-size: 0.8rem;  /* 约12.8px */
+    font-size: 0.8rem;
     line-height: 1.4;
 }
 
-/* 让加粗部分更明显但不增大太多 */
 .paper-info strong {
     font-weight: 600;
     font-size: 0.82rem;
 }
 
-/* 斜体标题 */
-.paper-info em {
-    font-style: italic;
+/* 论文链接样式 */
+.paper-link {
     color: #1a237e;
-    font-size: 0.85rem;
+    text-decoration: none;
+    border-bottom: 1px dashed rgba(26, 35, 126, 0.4);
+    transition: all 0.2s ease;
+    font-style: italic;
 }
 
-/* 手机端优化 */
-@media (max-width: 768px) {
-    .paper-entry {
-        gap: 0.6rem;
-    }
-    .paper-info {
-        font-size: 0.75rem;
-        padding: 0.4rem 0.6rem;
-    }
+.paper-link:hover {
+    color: #0d47a1;
+    border-bottom: 1px solid #0d47a1;
+    background-color: rgba(66, 133, 244, 0.08);
+}
+
+/* 链接后的小图标 */
+.paper-link::after {
+    content: " ↗";
+    font-size: 0.75em;
+    margin-left: 2px;
+    opacity: 0.6;
+}
+
+/* PDF/arXiv链接图标 */
+.pdf-link {
+    color: #d32f2f;
+    border-bottom: 1px solid rgba(211, 47, 47, 0.3);
+}
+
+.pdf-link::after {
+    content: " 📄";
+    opacity: 0.8;
 }
 </style>
 
@@ -119,10 +134,14 @@ I am looking for:
     </div>
     <div class="paper-info">
         <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2025). 
-        <em>Multilevel Control Functional. [(Preprint)](https://arxiv.org/abs/2305.12996).</em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2305.12996" target="_blank">Multilevel Control Functional.</a></em> 
+        In International Conference on Learning Representations (ICLR 2026).
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="https://arxiv.org/pdf/xxxx.xxxxx.pdf" target="_blank">PDF</a>]
+            [<a href="https://github.com/username/project" target="_blank">Code</a>]
+        </span>
     </div>
 </div>
-
 
 
 
