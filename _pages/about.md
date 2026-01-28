@@ -256,7 +256,7 @@ I am looking for:
         <div class="year">2021</div>
     </div>
     <div class="paper-info">
-        <strong>Li, X.\*; __Sun, Z.\*__; Xue, J-H. ; Ma, Z.</strong> (2021). 
+        <strong>Li, X.*; Sun, Z.*; Xue, J-H. ; Ma, Z.</strong> (2021). 
         <em><a class="paper-link" href="" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em> 
         Neurocomputing.
     </div>
@@ -270,7 +270,7 @@ I am looking for:
         <div class="year">2020</div>
     </div>
     <div class="paper-info">
-        <strong>Li, X.\*; Wu, J.\*; Sun, Z.\*; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
+        <strong>Li, X.*; Wu, J.*; Sun, Z.*; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
         <em><a class="paper-link" href="" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em> 
         IEEE Transactions on Image Processing.
     </div>
