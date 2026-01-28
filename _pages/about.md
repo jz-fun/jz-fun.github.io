@@ -133,7 +133,7 @@ I am looking for:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2025). 
+        <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2026). 
         <em><a class="paper-link" href="" target="_blank">Multilevel Control Functional.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
@@ -151,7 +151,7 @@ I am looking for:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <strong>Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; Sun, Z.</strong> 📩 (2025). 
+        <strong>Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; Sun, Z.</strong> 📩 (2026). 
         <em><a class="paper-link" href="" target="_blank">Information Shapes Koopman Representation.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
@@ -170,7 +170,7 @@ I am looking for:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <strong>Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; Sun, Z.; Hu, Y.</strong> (2025). 
+        <strong>Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; Sun, Z.; Hu, Y.</strong> (2026). 
         <em><a class="paper-link" href="" target="_blank">From Embedding to Control: Representations for Stochastic Multi-Object Systems.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
