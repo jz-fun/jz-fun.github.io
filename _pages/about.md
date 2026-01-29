@@ -125,7 +125,7 @@ I am looking for:
 </style>
 
 ## Publications (& Preprints) 📖
-<small> * equal contribution; 📩 corresponding author <small>
+<small> <sup>*</sup> equal contribution; <sup>‡</sup> corresponding author <small>
 
 <div class="paper-entry">
     <div class="conf-badge">
@@ -133,7 +133,7 @@ I am looking for:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.</strong> 📩 (2026). 
+        <strong>Li, K.; Yang, Y.; Chen, X.; He, Y.; Sun, Z.<sup>‡</sup></strong> 📩 (2026). 
         <em><a class="paper-link" href="" target="_blank">Multilevel Control Functional.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
@@ -151,7 +151,7 @@ I am looking for:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <strong>Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; Sun, Z.</strong> 📩 (2026). 
+        <strong>Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; Sun, Z.<sup>‡</sup></strong> (2026). 
         <em><a class="paper-link" href="" target="_blank">Information Shapes Koopman Representation.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
@@ -207,7 +207,7 @@ I am looking for:
         <div class="year">2023</div>
     </div>
     <div class="paper-info">
-        <strong>Li, K.*; Sun, Z.*</strong> 📩 (2023). 
+        <strong>Li, K.<sup>*</sup>; Sun, Z.<sup>*</sup><sup>‡</sup></strong> (2023). 
         <em><a class="paper-link" href="https://openreview.net/pdf?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version).</a></em> 
         In ICML 2023 SPIGM.
     </div>
@@ -256,7 +256,7 @@ I am looking for:
         <div class="year">2021</div>
     </div>
     <div class="paper-info">
-        <strong>Li, X.*; Sun, Z.*; Xue, J-H. ; Ma, Z.</strong> (2021). 
+        <strong>Li, X.<sup>*</sup>; Sun, Z.<sup>*</sup>; Xue, J-H. ; Ma, Z.</strong> (2021). 
         <em><a class="paper-link" href="" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em> 
         Neurocomputing.
     </div>
@@ -270,7 +270,7 @@ I am looking for:
         <div class="year">2020</div>
     </div>
     <div class="paper-info">
-        <strong>Li, X.*; Wu, J.*; Sun, Z.*; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
+        <strong>Li, X.<sup>*</sup>; Wu, J.<sup>*</sup>; Sun, Z.<sup>*</sup>; Ma, Z. ; Cao, J.; Xue, J-H. </strong> (2020). 
         <em><a class="paper-link" href="" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em> 
         IEEE Transactions on Image Processing.
     </div>
