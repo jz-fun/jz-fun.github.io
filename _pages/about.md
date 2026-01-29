@@ -240,7 +240,7 @@ I am looking for:
         <div class="year">2021</div>
     </div>
     <div class="paper-info">
-        <strong>Sun, Z.; Wu, J.; Li, X.; Yang, W.; Xue, J-H.</strong> (2023). 
+        <strong>Sun, Z.; Wu, J.; Li, X.; Yang, W.; Xue, J-H.</strong> (2021). 
         <em><a class="paper-link" href="https://proceedings.mlr.press/v130/sun21a.html" target="_blank">Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification.</a></em> 
         In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics(AISTATS 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
