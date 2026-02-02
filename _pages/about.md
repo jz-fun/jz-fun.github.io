@@ -280,23 +280,7 @@ I am looking for:
 
 
 
-## Talk/Presentation 🎤
-*   Talk at _UAI_, USA, 2023.
-*   Poster at _ICML_, USA, 2023.
-*   Talk at _SIAM UKIE National Student Chapter Conference_, UK, 2023.
-*   Poster at _the 7th London Symposium of Information Theory (LSIT)_, UK, 2023.
-*   Talk at topic-contributed sessions of _Joint Statistical Meetings_, USA, 2022.
-*   Talk at _SIAM Conference on Uncertainty Quantification_, USA, 2022.
-*   Poster at the _AI UK_, UK, 2022.
-*   Talk at _International Conference on Monte Carlo Methods and Applications_ (Special Session on Stein's method), German, 2021.
-*   Poster at _AISTATS_, USA, 2021.
-*   Talk at _Data-Centric Engineering Seminars_ @ The Alan Turing Institue, UK, 2021.
 
-
-
-## Teaching:
-* Bayesian Networks and Machine Learning (Postgraduate-level Course)
-* Bayesian Statistics (PhD-level Course)
 
 
 
