@@ -123,6 +123,7 @@ I am looking for:
 
 
 ## Preprints
+<small> <sup>*</sup> equal contribution; <sup>†</sup> corresponding author <small>
 <div class="paper-entry">
     <div class="conf-badge">
         <div>arxiv</div>
