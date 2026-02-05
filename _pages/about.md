@@ -135,7 +135,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em> 
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">Preprint</a>]
+            [<a class="pdf-link" href="https://www.arxiv.org/pdf/2602.02924" target="_blank">Preprint</a>]
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
         </span>
     </div>
