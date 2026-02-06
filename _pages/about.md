@@ -194,7 +194,7 @@ I am looking for:
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">Preprint</a>]
-            [<a class="pdf-link" href="" target="_blank">Oral</a>]
+            [<a class="pdf-link" href="" target="_blank">Selected for Oral Presentation</a>]
         </span>
     </div>
 </div>
@@ -232,7 +232,7 @@ I am looking for:
         In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">Preprint</a>]
-            [<a class="pdf-link" href="" target="_blank">Oral (top 3%)</a>]
+            [<a class="pdf-link" href="" target="_blank">Selected for Oral Presentation (top 3%)</a>]
         </span>
     </div>
 </div>
