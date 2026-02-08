@@ -26,11 +26,6 @@ I am looking for:
 - Good character and strong intrinsic motivation, with genuine interest in research exploration.  
 - Satisfy at least one of : solid mathematical background (probability and statistics) & strong programming skills (eg Python and PyTorch).
 
-**What you can expect:**
-  - Students are encouraged to pursue research topics that they are interested in. I will provide full guidance within my expertise, and facilitate collaborations beyond my expertise.  
-  - 📚 For students interested in academia, I will guide you in research projects and collaborations, and support your further academic development.  
-  - 💼 For students interested in industry, I can recommend you for internships in leading research divisions in the field.  
-
 📩 If you are interested in the above research directions, please feel free to contact me:  
 **Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
 
