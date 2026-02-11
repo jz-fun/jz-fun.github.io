@@ -170,7 +170,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">Multilevel Control Functional.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">Preprint</a>]
+            <!-- [<a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">Preprint</a>] -->
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
         </span>
     </div>
@@ -188,7 +188,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">Information Shapes Koopman Representation.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">Preprint</a>]
+            <!-- [<a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">Preprint</a>] -->
             [<a class="pdf-link" href="" target="_blank">Selected for Oral Presentation (top 1.18%)</a>]
         </span>
     </div>
@@ -207,7 +207,7 @@ I am looking for:
         <em><a class="paper-link" href="" target="_blank">From Embedding to Control: Representations for Stochastic Multi-Object Systems.</a></em> 
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">Preprint</a>]
+            <!-- [<a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">Preprint</a>] -->
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
         </span>
     </div>
@@ -226,7 +226,7 @@ I am looking for:
         <em><a class="paper-link" href="https://proceedings.mlr.press/v216/sun23a.html" target="_blank">Meta-learning Control Variates: Variance Reduction with Limited Data.</a></em> 
         In Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">Preprint</a>]
+            <!-- [<a class="pdf-link" href="https://arxiv.org/abs/2303.04756" target="_blank">Preprint</a>] -->
             [<a class="pdf-link" href="" target="_blank">Selected for Oral Presentation (top 3%)</a>]
         </span>
     </div>
@@ -259,7 +259,7 @@ I am looking for:
         In Proceedings of the 40th International Conference on Machine Learning (ICML 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="" target="_blank">ASA SBSS Best Paper (2022)</a>]
-            [<a href="" target="_blank">Code</a>]
+            <!-- [<a href="" target="_blank">Code</a>] -->
         </span>
     </div>
 </div>
