@@ -258,7 +258,7 @@ I am looking for:
         <em><a class="paper-link" href="https://proceedings.mlr.press/v202/sun23a.html" target="_blank">Vector-valued Control Variates.</a></em> 
         In Proceedings of the 40th International Conference on Machine Learning (ICML 2023).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">ASA SBSS Best Paper (2022)</a>]
+            [<a class="pdf-link" href="" target="_blank">ASA SBSS Best Student Paper (2022)</a>]
             <!-- [<a href="" target="_blank">Code</a>] -->
         </span>
     </div>
