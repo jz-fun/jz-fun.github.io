@@ -164,7 +164,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <!-- [<a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">Preprint</a>] -->
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
+            [<a class="pdf-link" href="" target="_blank"> With Score 8,8,8 (Rank 2nd over 19000 submissions)</a>]
         </span>
     </div>
 </div>
