@@ -115,7 +115,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 
 <div class="paper-entry">
     <div class="conf-badge">
-        <div>ICLR Workshop</div>
+        <div>ICLR W</div>
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
