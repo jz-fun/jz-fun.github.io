@@ -13,7 +13,7 @@ Welcome to Zhuo's Lab, wnich is called **Efficient Machine Learning Lab**. We ar
 
 
 Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics and Data Science, and also affiliated to Institute of Big Data Research at Shanghai University of Finance and Economics. 
-- Visiting Reseacher at Imperial College London, collaborating with Prof. Harrison Bohua Zhu, Prof. Yingzhen Li and Prof. Samir Bhatt.
+- Visiting Reseacher at Imperial College London.
 - Ph.D. in Machine Learning and Computational Statistics: on variational inference & meta-learning & Monte Carlo... from University College London (supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue) and a master degree in statistical science from University of Oxford (supervised by Prof. George Deligiannidis).
 
 ---
@@ -109,57 +109,6 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 }
 </style>
 
-
-## Preprints & Working Papers
-<small> <sup>*</sup> equal contribution; <sup>†</sup> corresponding author <small>
-
-<div class="paper-entry">
-    <div class="conf-badge">
-        <div>ICLR'W</div>
-        <div class="year">2026</div>
-    </div>
-    <div class="paper-info">
-        <strong>Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Sun, Z.<sup>†</sup>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em> 
-        arxiv.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">Preprint</a>]
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
-        </span>
-    </div>
-</div>
-
-<div class="paper-entry">
-    <div class="conf-badge">
-        <div>arxiv</div>
-        <div class="year">2026</div>
-    </div>
-    <div class="paper-info">
-        <strong>Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Li, B.; Xu, Y.; Yang, Y.; Liang, H.; Peng, B.; Loftin, R.; Sun, Z.; Hu, Y.</strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em> 
-        arxiv.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://www.arxiv.org/pdf/2602.02924" target="_blank">Preprint</a>]
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
-        </span>
-    </div>
-</div>
-
-<div class="paper-entry">
-    <div class="conf-badge">
-        <div>arxiv</div>
-        <div class="year">2026</div>
-    </div>
-    <div class="paper-info">
-        <strong>Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; Sun, Z.<sup>†</sup></strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">On Stability and Robustness of Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em> 
-        arxiv.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">Preprint</a>]
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
-        </span>
-    </div>
-</div>
 
 
 
