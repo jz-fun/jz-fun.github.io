@@ -20,7 +20,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
   
 ## 📢 Contact
 📩 If you are interested in the above research directions, please feel free to contact me:  
-**Email:** [sunzhuo@mail.shufe.edu.cn](mailto:sunzhuo@mail.shufe.edu.cn)
+**Email:** [spencerzhuosh@outlook.com](mailto:spencerzhuosh@outlook.com)
 
 ---
 
