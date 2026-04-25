@@ -20,7 +20,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
   
 ## 📢 Contact
 📩 If you are interested in the above research directions, please feel free to contact me:  
-**Email:** [spencerzhuosh@outlook.com](mailto:spencerzhuosh@outlook.com)
+**Email:** [zhuosunreid@outlook.com](mailto:zhuosunreid@outlook.com)
 
 ---
 
