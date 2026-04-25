@@ -127,7 +127,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
         <em><a class="paper-link" href="" target="_blank">Fisher Decorator: Refining Flow Policy via A Local Transport Map</a></em> 
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="" target="_blank">Preprint</a>]
+            [<a class="pdf-link" href="https://arxiv.org/pdf/2604.17919" target="_blank">Preprint</a>]
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
         </span>
     </div>
