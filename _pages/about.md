@@ -150,21 +150,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
     </div>
 </div>
 
-<div class="paper-entry">
-    <div class="conf-badge">
-        <div>arxiv</div>
-        <div class="year">2026</div>
-    </div>
-    <div class="paper-info">
-        <strong>Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Li, B.; Xu, Y.; Yang, Y.; Liang, H.; Peng, B.; Loftin, R.; Sun, Z.; Hu, Y.</strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em> 
-        arxiv.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://www.arxiv.org/pdf/2602.02924" target="_blank">Preprint</a>]
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
-        </span>
-    </div>
-</div>
+
 
 <div class="paper-entry">
     <div class="conf-badge">
@@ -187,6 +173,23 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 
 ## Publications 📖
 <small> <sup>*</sup> equal contribution; <sup>†</sup> corresponding author <small>
+
+
+<div class="paper-entry">
+    <div class="conf-badge">
+        <div>ICML</div>
+        <div class="year">2026</div>
+    </div>
+    <div class="paper-info">
+        <strong>Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Li, B.; Xu, Y.; Yang, Y.; Liang, H.; Peng, B.; Loftin, R.; Sun, Z.; Hu, Y.</strong> (2026). 
+        <em><a class="paper-link" href="" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em> 
+        arxiv.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="https://www.arxiv.org/pdf/2602.02924" target="_blank">Preprint</a>]
+            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
+        </span>
+    </div>
+</div>
 
 <div class="paper-entry">
     <div class="conf-badge">
