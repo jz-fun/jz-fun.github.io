@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html  
 ---
-Welcome to Zhuo's Lab, wnich is called **Efficient Machine Learning Lab**. We are focusing on developing novel and efficient learning algoritms for both：
-- **General Artificial Intelligence** (e.g. LLMs, Diffusion models, Optimization Algorithms ...) and，
+Welcome to Zhuo's Website. We are focusing on developing novel and efficient learning algoritms for both：
+- **General Artificial Intelligence** (e.g. LLMs, World Models, Diffusion models ...) and，
 - **Theoretical Machine Learning** (e.g. Monte Carlo, Variational Inference, Theorys for Transfer Learning, Stein's method, Gaussian processes ...) problems! 
 
 
