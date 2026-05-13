@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to Zhuo's Website. We are focusing on developing novel and efficient learning algoritms for both：
 - **General Artificial Intelligence** (e.g. LLMs, World Models, Diffusion models ...) and，
-- **Theoretical Machine Learning** (e.g. Monte Carlo, Variational Inference, Theorys for Transfer Learning, Stein's method, Gaussian processes ...) problems! 
+- **Theoretical Machine Learning** (e.g. Monte Carlo, Variational Inference, ...) problems! 
 
 
 Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics and Data Science at Shanghai University of Finance and Economics. 
