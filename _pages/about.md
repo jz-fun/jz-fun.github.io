@@ -125,7 +125,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
         <div class="year">2026+</div>
     </div>
     <div class="paper-info">
-        <strong>Zhao, Y.<sup>*</sup>; Cheng, X.<sup>*</sup>; Liu, H.; He, B.; Zhang, Xin.; Zhu, H.; Chen, W.; Zeng, L.; Sun, Z.<sup>†</sup></strong> (2026). 
+        <strong>Zhao, Y.<sup>*</sup>; Cheng, X.<sup>*</sup>; Liu, H.<sup>*</sup>; He, B.; Zhang, Xin.; Zhu, H.; Chen, W.; Zeng, L.; Sun, Z.<sup>†</sup></strong> (2026). 
         <em><a class="paper-link" href="" target="_blank">Saliency-Aware Regularized Quantization Calibration for Large Language Models</a></em> 
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
