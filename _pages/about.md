@@ -126,7 +126,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
     </div>
     <div class="paper-info">
         <strong>Zhao, Y.<sup>*</sup>; Cheng, X.<sup>*</sup>; Liu, H.; He, B.; Zhang, Xin.; Zhu, H.; Chen, W.; Zeng, L.; Sun, Z.<sup>†</sup></strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">Fisher Decorator: Refining Flow Policy via A Local Transport Map</a></em> 
+        <em><a class="paper-link" href="" target="_blank">Saliency-Aware Regularized Quantization Calibration for Large Language Models</a></em> 
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="https://arxiv.org/pdf/2605.05693" target="_blank">Preprint</a>]
