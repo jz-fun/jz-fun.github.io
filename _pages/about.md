@@ -156,6 +156,23 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 
 <div class="paper-entry">
     <div class="conf-badge">
+        <div>arxiv</div>
+        <div class="year">2026+</div>
+    </div>
+    <div class="paper-info">
+        <strong>Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; Sun, Z.<sup>†</sup></strong> (2026). 
+        <em><a class="paper-link" href="" target="_blank">Outlier-Robust Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em> 
+        arxiv.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">Preprint</a>]
+            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
+        </span>
+    </div>
+</div>
+
+
+<div class="paper-entry">
+    <div class="conf-badge">
         <div>ICML'W</div>
         <div class="year">2026+</div>
     </div>
@@ -190,21 +207,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 
 
 
-<div class="paper-entry">
-    <div class="conf-badge">
-        <div>arxiv</div>
-        <div class="year">2026+</div>
-    </div>
-    <div class="paper-info">
-        <strong>Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; Sun, Z.<sup>†</sup></strong> (2026). 
-        <em><a class="paper-link" href="" target="_blank">Outlier-Robust Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em> 
-        arxiv.
-        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            [<a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">Preprint</a>]
-            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
-        </span>
-    </div>
-</div>
+
 
 
 
