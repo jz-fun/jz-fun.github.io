@@ -118,6 +118,21 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 ## Preprints & Working Papers
 <small> <sup>*</sup> equal contribution; <sup>†</sup> corresponding author <small>
 
+<div class="paper-entry">
+    <div class="conf-badge">
+        <div>arxiv</div>
+        <div class="year">2026+</div>
+    </div>
+    <div class="paper-info">
+        <strong>Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Mu, Z.; Zhang, Y.; Yang, Y.; Wang, H.; Sun, Z.<sup>†</sup>; Liu, C.<sup>†</sup></strong> (2026). 
+        <em><a class="paper-link" href="" target="_blank">Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization</a></em> 
+        arxiv.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            [<a class="pdf-link" href="https://arxiv.org/pdf/2605.26282" target="_blank">Preprint</a>]
+            <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
+        </span>
+    </div>
+</div>
 
 <div class="paper-entry">
     <div class="conf-badge">
