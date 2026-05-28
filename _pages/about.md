@@ -194,7 +194,7 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
     <div class="paper-info">
         <strong>Guo, S.; Cheng, X.; Liu, X.; Niu, Z.; Chen, Z.; Liu, X.; Sun, Z.<sup>†</sup></strong> (2026). 
         <em><a class="paper-link" href="" target="_blank">Random-Projection Tree Stein Variational Gradient Descent</a></em> 
-        arxiv.
+        In ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="" target="_blank">Preprint</a>]
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
