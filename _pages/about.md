@@ -205,13 +205,13 @@ Zhuo Sun is a **tenure-track Assistant Professor** in the School of Statistics a
 
 <div class="paper-entry">
     <div class="conf-badge">
-        <div>ICLR'W</div>
+        <div>ICML'W</div>
         <div class="year">2026+</div>
     </div>
     <div class="paper-info">
-        <strong>Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Sun, Z.<sup>†</sup>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></strong> (2026). 
+        <strong>Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; Sun, Z.<sup>†</sup>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></strong> (2026). 
         <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em> 
-        arxiv.
+        In ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             [<a class="pdf-link" href="" target="_blank">Preprint</a>]
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a>] -->
