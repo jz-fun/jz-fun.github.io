@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zhuo Sun"
-excerpt: "About Zhuo Sun"
+title: "Research Profile"
+excerpt: "Research profile of Zhuo Sun"
 author_profile: true
 redirect_from:
   - /about/
