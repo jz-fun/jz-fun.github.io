@@ -8,6 +8,34 @@ redirect_from:
   - /about.html
 ---
 <style>
+@media (min-width: 1024px) {
+    #main {
+        max-width: 1680px !important;
+    }
+
+    #main .page {
+        width: calc(100% - 220px) !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
+
+@media (max-width: 640px) {
+    #main {
+        padding-left: 0.45rem;
+        padding-right: 0.45rem;
+    }
+
+    .lab-hero {
+        padding: 1.1rem 0.95rem;
+    }
+
+    .research-map__figure {
+        margin-left: -0.15rem;
+        margin-right: -0.15rem;
+    }
+}
+
 .lab-hero {
     margin: 0 0 1.6rem;
     padding: 1.35rem 1.45rem;
@@ -119,16 +147,18 @@ redirect_from:
 
 .research-map__figure {
     margin: 0;
-    padding: 0.75rem;
+    padding: 0.45rem;
     background: #ffffff;
     border: 1px solid #e5e7eb;
     border-radius: 0.45rem;
     box-shadow: 0 0.16rem 0.7rem rgba(15, 23, 42, 0.05);
+    overflow-x: auto;
 }
 
 .research-map__figure img {
     display: block;
     width: 100%;
+    min-width: 760px;
     height: auto;
     border-radius: 0.3rem;
 }
