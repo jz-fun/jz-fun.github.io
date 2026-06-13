@@ -119,16 +119,18 @@ redirect_from:
 
 .research-map__figure {
     margin: 0;
-    padding: 0.75rem;
+    padding: 0.5rem;
     background: #ffffff;
     border: 1px solid #e5e7eb;
     border-radius: 0.45rem;
     box-shadow: 0 0.16rem 0.7rem rgba(15, 23, 42, 0.05);
+    overflow-x: auto;
 }
 
 .research-map__figure img {
     display: block;
     width: 100%;
+    min-width: 760px;
     height: auto;
     border-radius: 0.3rem;
 }
