@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 <style>
+@media (min-width: 1024px) {
+    #main {
+        max-width: 1400px;
+    }
+
+    #main .page {
+        width: calc(100% - 250px);
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
 .lab-hero {
     margin: 0 0 1.6rem;
     padding: 1.35rem 1.45rem;
@@ -130,7 +142,7 @@ redirect_from:
 .research-map__figure img {
     display: block;
     width: 100%;
-    min-width: 760px;
+    min-width: 960px;
     height: auto;
     border-radius: 0.3rem;
 }

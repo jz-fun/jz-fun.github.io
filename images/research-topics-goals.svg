@@ -12,9 +12,6 @@
       <stop offset="0" stop-color="#be123c"/>
       <stop offset="1" stop-color="#ea580c"/>
     </linearGradient>
-    <filter id="shadow" x="-12%" y="-14%" width="124%" height="128%">
-      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.13"/>
-    </filter>
     <marker id="arrowBlue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
     </marker>
@@ -44,15 +41,15 @@
   <text class="title" x="600" y="64" text-anchor="middle">Research Topics and Goals</text>
   <text class="subtitle" x="600" y="96" text-anchor="middle">Building efficient, reliable, and scalable modern AI systems</text>
 
-  <rect x="56" y="136" width="420" height="84" rx="16" fill="url(#blue)" filter="url(#shadow)"/>
+  <rect x="56" y="136" width="420" height="84" rx="16" fill="url(#blue)"/>
   <text class="axis" x="266" y="171" text-anchor="middle">Modern AI Systems</text>
   <text class="axisSub" x="266" y="199" text-anchor="middle">LLMs · Diffusion · World Models · RL</text>
 
-  <rect x="724" y="136" width="420" height="84" rx="16" fill="url(#rose)" filter="url(#shadow)"/>
+  <rect x="724" y="136" width="420" height="84" rx="16" fill="url(#rose)"/>
   <text class="axis" x="934" y="171" text-anchor="middle">Theoretical ML Foundations</text>
   <text class="axisSub" x="934" y="199" text-anchor="middle">Monte Carlo · VI · Bayesian Inverse Problems</text>
 
-  <rect x="402" y="304" width="396" height="146" rx="22" fill="#ffffff" stroke="#c7d2fe" stroke-width="2.5" filter="url(#shadow)"/>
+  <rect x="402" y="304" width="396" height="146" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.5"/>
   <text class="centerTitle" x="600" y="356" text-anchor="middle">Efficient &amp; Reliable Modern AI</text>
   <text class="centerText" x="600" y="390" text-anchor="middle">Learning algorithms, inference, and decision-making</text>
   <text class="centerText" x="600" y="417" text-anchor="middle">for capable AI systems</text>
@@ -60,38 +57,38 @@
   <path d="M476 192 C548 218 580 258 578 304" fill="none" stroke="#2563eb" stroke-width="3.8" marker-end="url(#arrowBlue)" opacity="0.75"/>
   <path d="M724 192 C652 218 620 258 622 304" fill="none" stroke="#be123c" stroke-width="3.8" marker-end="url(#arrowRose)" opacity="0.75"/>
 
-  <g filter="url(#shadow)">
+  <g>
     <rect x="78" y="262" width="294" height="94" rx="14" fill="#ffffff" stroke="#dbeafe"/>
     <text class="nodeTitle" x="104" y="300">LLM Architecture &amp; Memory</text>
     <text class="nodeText" x="104" y="329">generalization of SSMs and Attention</text>
   </g>
-  <g filter="url(#shadow)">
+  <g>
     <rect x="92" y="390" width="278" height="94" rx="14" fill="#ffffff" stroke="#dbeafe"/>
     <text class="nodeTitle" x="118" y="428">LLM Post-train &amp; RL</text>
     <text class="nodeText" x="118" y="457">alignment and reinforcement learning</text>
   </g>
-  <g filter="url(#shadow)">
+  <g>
     <rect x="120" y="518" width="316" height="94" rx="14" fill="#ffffff" stroke="#dbeafe"/>
     <text class="nodeTitle" x="146" y="556">LLM Inference Acceleration</text>
     <text class="nodeText" x="146" y="585">compression, quantization, deployment</text>
   </g>
-  <g filter="url(#shadow)">
+  <g>
     <rect x="450" y="546" width="250" height="94" rx="14" fill="#ffffff" stroke="#dbeafe"/>
     <text class="nodeTitle" x="476" y="584">World Models</text>
     <text class="nodeText" x="476" y="613">model-based learning · diffusion policy</text>
   </g>
 
-  <g filter="url(#shadow)">
+  <g>
     <rect x="846" y="262" width="286" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
     <text class="nodeTitle" x="872" y="300">Monte Carlo Methods</text>
     <text class="nodeText" x="872" y="329">variance reduction · scalable computation</text>
   </g>
-  <g filter="url(#shadow)">
+  <g>
     <rect x="846" y="390" width="286" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
     <text class="nodeTitle" x="872" y="428">Variational Inference</text>
     <text class="nodeText" x="872" y="457">Stein methods · probabilistic approximation</text>
   </g>
-  <g filter="url(#shadow)">
+  <g>
     <rect x="776" y="518" width="332" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
     <text class="nodeTitle" x="802" y="556">Bayesian Inverse Problems</text>
     <text class="nodeText" x="802" y="585">diffusion posterior sampling · uncertainty</text>
@@ -105,7 +102,7 @@
   <path d="M846 438 C818 425 808 407 798 392" fill="none" stroke="#be123c" stroke-width="2.8" marker-end="url(#arrowRose)" opacity="0.55"/>
   <path d="M776 564 C714 520 674 476 646 450" fill="none" stroke="#be123c" stroke-width="2.8" marker-end="url(#arrowRose)" opacity="0.55"/>
 
-  <rect x="148" y="684" width="904" height="54" rx="18" fill="#ffffff" stroke="#e2e8f0" filter="url(#shadow)"/>
+  <rect x="148" y="684" width="904" height="54" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
   <text class="outcomeTitle" x="600" y="708" text-anchor="middle">Unifying Research Objective</text>
   <text class="outcomeText" x="600" y="731" text-anchor="middle">More efficient, reliable, and scalable AI systems across LLMs, diffusion models, world models, and reinforcement learning</text>
 </svg>
