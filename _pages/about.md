@@ -473,7 +473,7 @@ redirect_from:
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2605.24330" target="_blank">arXiv</a>
-            <a class="award-link" href="" target="_blank">ICML 2026 FoGen Workshop Spotlight</a>
+            <a class="award-link" href="" target="_blank">ICML 2026 Workshop on Foundations of Deep Generative Models, Spotlight Paper</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
         </span>
     </div>
