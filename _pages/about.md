@@ -463,16 +463,17 @@ redirect_from:
 
 
 <div class="paper-entry">
-    <div class="conf-badge venue-workshop">
-        <div class="conf-name">ICML'W</div>
+    <div class="conf-badge venue-preprint">
+        <div class="conf-name">arxiv</div>
         <div class="year">2026+</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors">Guo, S.; Cheng, X.; Liu, X.; Niu, Z.; Chen, Z.; Liu, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Random-Projection Tree Stein Variational Gradient Descent</a></em>
-        In ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling.
+        <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></span> (2026).
+        <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
+        In ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="" target="_blank">arXiv</a>
+            <a class="award-link" href="" target="_blank">ICML 2026 FoGen Workshop Spotlight</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
         </span>
     </div>
@@ -485,9 +486,9 @@ redirect_from:
         <div class="year">2026+</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
-        In ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning.
+        <span class="paper-authors">Guo, S.; Cheng, X.; Liu, X.; Niu, Z.; Chen, Z.; Liu, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
+        <em><a class="paper-link" href="" target="_blank">Random-Projection Tree Stein Variational Gradient Descent</a></em>
+        In ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="" target="_blank">arXiv</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
