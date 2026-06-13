@@ -81,12 +81,12 @@
   <g>
     <rect x="846" y="262" width="286" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
     <text class="nodeTitle" x="872" y="300">Monte Carlo Methods</text>
-    <text class="nodeText" x="872" y="329">variance reduction · scalable computation</text>
+    <text class="nodeText" x="872" y="329">scalable probabilistic computation</text>
   </g>
   <g>
     <rect x="846" y="390" width="286" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
     <text class="nodeTitle" x="872" y="428">Variational Inference</text>
-    <text class="nodeText" x="872" y="457">Stein methods · probabilistic approximation</text>
+    <text class="nodeText" x="872" y="457">probabilistic approximation</text>
   </g>
   <g>
     <rect x="776" y="518" width="332" height="94" rx="14" fill="#ffffff" stroke="#fecdd3"/>
