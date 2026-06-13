@@ -263,10 +263,10 @@ redirect_from:
     display: inline-flex;
     align-items: center;
     margin: 0.15rem 0.18rem 0 0;
-    color: #9f1239;
+    color: #64748b;
     background: transparent;
     border: 0;
-    border-bottom: 1px solid rgba(159, 18, 57, 0.32);
+    border-bottom: 1px solid rgba(100, 116, 139, 0.32);
     border-radius: 0;
     font-size: 0.74rem;
     font-weight: 700;
@@ -276,23 +276,23 @@ redirect_from:
 .pdf-link::before {
     content: "[";
     margin-right: 0.05rem;
-    color: #be123c;
+    color: #94a3b8;
 }
 
 .pdf-link::after {
     content: "]";
     margin-left: 0.05rem;
-    color: #be123c;
+    color: #94a3b8;
 }
 
 .pdf-link:hover {
-    color: #7f1d1d;
-    border-bottom-color: rgba(127, 29, 29, 0.55);
+    color: #475569;
+    border-bottom-color: rgba(71, 85, 105, 0.55);
 }
 
 .pdf-link[href=""] {
-    color: #be123c;
-    border-bottom-color: rgba(190, 18, 60, 0.28);
+    color: #64748b;
+    border-bottom-color: rgba(100, 116, 139, 0.28);
     pointer-events: none;
     cursor: default;
 }
@@ -397,7 +397,7 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
         <div class="conf-name">arxiv</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Mu, Z.; Zhang, Y.; Yang, Y.; Wang, H.; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Liu, C.<sup>†</sup></span> (2026).
@@ -413,7 +413,7 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
         <div class="conf-name">arxiv</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Zhao, Y.<sup>*</sup>; Cheng, X.<sup>*</sup>; Liu, H.<sup>*</sup>; He, B.; Zhang, Xin.; Zhu, H.; Chen, W.; Zeng, L.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
@@ -431,7 +431,7 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
         <div class="conf-name">arxiv</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X<sup>*</sup>; Wang, H.<sup>*</sup>; Yuan, W.; Wang, Z.; Chen, Z.; Zeng, L.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
@@ -448,7 +448,7 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
         <div class="conf-name">arxiv</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
@@ -465,14 +465,14 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
         <div class="conf-name">arxiv</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.<sup>†</sup>; Bhatt, S.; Li, YZ.<sup>†</sup></span> (2026).
         <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
-        In ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning.
+        arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            <a class="pdf-link" href="" target="_blank">arXiv</a>
+            <a class="pdf-link" href="https://arxiv.org/pdf/2605.24330" target="_blank">arXiv</a>
             <a class="award-link" href="" target="_blank">ICML 2026 FoGen Workshop Spotlight</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
         </span>
@@ -483,7 +483,7 @@ redirect_from:
 <div class="paper-entry">
     <div class="conf-badge venue-workshop">
         <div class="conf-name">ICML'W</div>
-        <div class="year">2026+</div>
+        <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Guo, S.; Cheng, X.; Liu, X.; Niu, Z.; Chen, Z.; Liu, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
