@@ -468,7 +468,7 @@ redirect_from:
         <div class="year">2026+</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.; Bhatt, S.<sup>†</sup>; Li, YZ.<sup>†</sup></span> (2026).
+        <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.<sup>†</sup>; Bhatt, S.; Li, YZ.<sup>†</sup></span> (2026).
         <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
         In ICML 2026 Workshop on Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
