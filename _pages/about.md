@@ -121,6 +121,37 @@ redirect_from:
     font-size: 0.78rem;
 }
 
+.news-section {
+    margin: 1.35rem 0 1.7rem;
+}
+
+.news-section h2 {
+    margin-bottom: 0.55rem;
+}
+
+.news-list {
+    height: 7.2rem;
+    margin: 0;
+    padding: 0.9rem 1rem 0.9rem 1.25rem;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.45rem;
+    box-shadow: 0 0.16rem 0.7rem rgba(15, 23, 42, 0.05);
+    overflow-y: auto;
+}
+
+.news-list li {
+    margin: 0.35rem 0;
+    color: #334155;
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+
+.news-date {
+    color: #1e3a8a;
+    font-weight: 800;
+}
+
 .research-map {
     margin: 1.4rem 0 1.7rem;
 }
@@ -370,33 +401,34 @@ redirect_from:
 
 <section class="lab-hero">
     <h2>Efficient Machine Learning Lab @ SUFE</h2>
-    <p>We develop novel and efficient learning algorithms for modern artificial intelligence and theoretical machine learning problems.</p>
-    <div class="research-focus">
-        <div class="focus-card">
-            <strong>Artificial General Intelligence</strong>
-            <span>LLMs, world models, diffusion models, reinforcement learning, and scalable learning systems.</span>
-        </div>
-        <div class="focus-card">
-            <strong>Theoretical Machine Learning</strong>
-            <span>Monte Carlo methods, variational inference, and probabilistic machine learning.</span>
-        </div>
-    </div>
     <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics.</p>
     <ul class="profile-notes">
         <li>Visiting Researcher at Imperial College London</li>
-        <li>Area Chair/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
+        <li><strong>Area Chair</strong>/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
         <li>Ph.D. in Machine Learning and Computational Statistics from University College London, supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue; master's degree in statistical science from the University of Oxford, supervised by Prof. George Deligiannidis and mentored by Prof. Gesine Reinert.</li>
     </ul>
     <div class="contact-strip">
-        <span>Interested in these research directions? Please feel free to get in touch.</span>
+        <span>Interested in the following research topics? Please feel free to get in touch.</span>
         <a class="contact-button" href="mailto:zhuosunreid@outlook.com">zhuosunreid@outlook.com</a>
     </div>
+</section>
+
+
+<section class="news-section">
+    <h2>News</h2>
+    <ul class="news-list">
+        <li><span class="news-date">Jun 2026</span> — <em>Interdomain Attention: Beyond Token-Level Key-Value Memory</em> is released on arXiv and selected as a Spotlight Paper at the ICML 2026 Workshop on Foundations of Deep Generative Models.</li>
+        <li><span class="news-date">Apr 2026</span> — 1 paper is accepted to ICML 2026!</li>
+        <li><span class="news-date">Feb 2026</span> — <em>Information Shapes Koopman Representation</em> is selected as an Oral Paper at ICLR 2026!</li>
+        <li><span class="news-date">Jan 2026</span> — 3 papers are accepted to ICLR 2026!</li>
+    </ul>
 </section>
 
 
 
 <section class="research-map">
     <h2>Research Topics and Goals</h2>
+    <p>We develop novel and efficient learning algorithms for modern artificial intelligence and theoretical machine learning problems.</p>
     <figure class="research-map__figure">
         <img src="/images/research-topics-goals.svg" alt="Research topics and goals diagram">
     </figure>
