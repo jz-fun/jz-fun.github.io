@@ -405,6 +405,7 @@ redirect_from:
     <ul class="profile-notes">
         <li>Visiting Researcher at Imperial College London</li>
         <li><strong>Area Chair</strong>/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
+        <li>Previously worked as a Research Scientist in the industry (Huawei), focusing on post-training, model compression, and inference acceleration for LLMs.</li>
         <li>Ph.D. in Machine Learning and Computational Statistics from University College London, supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue; master's degree in statistical science from the University of Oxford, supervised by Prof. George Deligiannidis and mentored by Prof. Gesine Reinert.</li>
     </ul>
     <div class="contact-strip">
