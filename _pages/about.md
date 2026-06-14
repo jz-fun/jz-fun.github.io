@@ -401,7 +401,7 @@ redirect_from:
 
 <section class="lab-hero">
     <h2>Efficient Machine Learning Lab @ SUFE</h2>
-    <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics.</p>
+    <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics. His research has been recognized with best paper, oral paper, and spotlight paper distinctions across various research communities, and his work has also received industry recognition, including the Innovation &amp; Technological Breakthrough Award from Huawei.</p>
     <ul class="profile-notes">
         <li>Visiting Researcher at Imperial College London</li>
         <li><strong>Area Chair</strong>/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
