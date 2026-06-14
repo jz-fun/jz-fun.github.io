@@ -401,11 +401,11 @@ redirect_from:
 
 <section class="lab-hero">
     <h2>Efficient Machine Learning Lab @ SUFE</h2>
-    <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics. His research has been recognized with best paper, oral paper, and spotlight paper distinctions across various research communities, and his work has also received industry recognition, including the Innovation &amp; Technological Breakthrough Award from Huawei.</p>
+    <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics. His research has been recognized with best paper, oral paper, and spotlight paper distinctions across various research communities, and his work has also received industry recognition, including an Innovation &amp; Technological Breakthrough Award.</p>
     <ul class="profile-notes">
         <li>Visiting Researcher at Imperial College London</li>
         <li><strong>Area Chair</strong>/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
-        <li>Previously worked as a Research Scientist in the industry (Huawei), leading projects on reinforcement learning and model compression for LLMs.</li>
+        <li>Previously worked as a Research Scientist in the industry, leading projects on reinforcement learning and model compression for LLMs.</li>
         <li>Ph.D. in Machine Learning and Computational Statistics from University College London, supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue; master's degree in statistical science from the University of Oxford, supervised by Prof. George Deligiannidis and mentored by Prof. Gesine Reinert.</li>
     </ul>
     <div class="contact-strip">
