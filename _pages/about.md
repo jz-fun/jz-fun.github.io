@@ -121,6 +121,13 @@ redirect_from:
     font-size: 0.78rem;
 }
 
+.publication-teaser {
+    margin: 1.1rem 0 0.65rem;
+    color: #1d4ed8;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
 .news-section {
     margin: 1.35rem 0 1.7rem;
 }
@@ -549,6 +556,8 @@ redirect_from:
 
 
 
+
+<p class="publication-teaser">Stay tuned, more RL for LLMs and Agentic RL works are on the way.</p>
 
 ## Publications 📖
 <small class="publication-note"><sup>*</sup> equal contribution; <sup>†</sup> corresponding author</small>
