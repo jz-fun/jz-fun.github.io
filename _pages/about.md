@@ -447,6 +447,7 @@ redirect_from:
 
 ## Preprints & Working Papers
 <small class="publication-note"><sup>*</sup> equal contribution; <sup>†</sup> corresponding author</small>
+<p class="publication-teaser">Stay tuned, more RL for LLMs and Agentic RL works are on the way.</p>
 
 <div class="paper-entry">
     <div class="conf-badge venue-preprint">
@@ -554,10 +555,6 @@ redirect_from:
 
 
 
-
-
-
-<p class="publication-teaser">Stay tuned, more RL for LLMs and Agentic RL works are on the way.</p>
 
 ## Publications 📖
 <small class="publication-note"><sup>*</sup> equal contribution; <sup>†</sup> corresponding author</small>
