@@ -47,7 +47,7 @@
 
   <rect x="724" y="136" width="420" height="84" rx="16" fill="url(#rose)"/>
   <text class="axis" x="934" y="171" text-anchor="middle">Theoretical ML Foundations</text>
-  <text class="axisSub" x="934" y="199" text-anchor="middle">Monte Carlo · VI · Bayesian Inverse Problems</text>
+  <text class="axisSub" x="934" y="199" text-anchor="middle">Monte Carlo · VI · Bayesian Inverse Problems · RL</text>
 
   <rect x="402" y="304" width="396" height="146" rx="22" fill="#ffffff" stroke="#94a3b8" stroke-width="2.5"/>
   <text class="centerTitle" x="600" y="356" text-anchor="middle">Efficient &amp; Reliable Modern AI</text>
@@ -93,6 +93,11 @@
     <text class="nodeTitle" x="802" y="556">Bayesian Inverse Problems</text>
     <text class="nodeText" x="802" y="585">diffusion posterior sampling · uncertainty</text>
   </g>
+  <g>
+    <rect x="846" y="624" width="286" height="54" rx="14" fill="#ffffff" stroke="#fecdd3"/>
+    <text class="nodeTitle" x="872" y="648">Reinforcement Learning</text>
+    <text class="nodeText" x="872" y="668">diffusion policy, flow policy</text>
+  </g>
 
   <path d="M372 310 C392 320 398 333 402 352" fill="none" stroke="#2563eb" stroke-width="2.8" marker-end="url(#arrowBlue)" opacity="0.55"/>
   <path d="M370 438 C388 425 394 407 402 392" fill="none" stroke="#2563eb" stroke-width="2.8" marker-end="url(#arrowBlue)" opacity="0.55"/>
@@ -101,6 +106,7 @@
   <path d="M846 310 C816 320 806 333 798 352" fill="none" stroke="#be123c" stroke-width="2.8" marker-end="url(#arrowRose)" opacity="0.55"/>
   <path d="M846 438 C818 425 808 407 798 392" fill="none" stroke="#be123c" stroke-width="2.8" marker-end="url(#arrowRose)" opacity="0.55"/>
   <path d="M776 564 C714 520 674 476 646 450" fill="none" stroke="#be123c" stroke-width="2.8" marker-end="url(#arrowRose)" opacity="0.55"/>
+  <path d="M846 650 C772 602 704 520 646 450" fill="none" stroke="#be123c" stroke-width="2.5" marker-end="url(#arrowRose)" opacity="0.42"/>
 
   <rect x="148" y="684" width="904" height="54" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
   <text class="outcomeTitle" x="600" y="708" text-anchor="middle">Unifying Research Objective</text>
