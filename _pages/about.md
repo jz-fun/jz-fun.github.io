@@ -456,7 +456,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors"><strong class="author-me">Sun, Z.<sup>†</sup></strong>; Li, E.; Zhao, Y.; Cheng, X.; Yuan, W.; Li, K.; Liu, C.; Liu, H.; Zhu, H. B. H.; Zeng, L.</span> (2026+).
-        <em><a class="paper-link" href="https://arxiv.org/abs/2608.09745" target="_blank">SR-OPSD: Self-Referenced On-Policy Self-Distillation</a></em>
+        <em><a class="paper-link" href="" target="_blank">SR-OPSD: Self-Referenced On-Policy Self-Distillation</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2608.09745" target="_blank">arXiv</a>
