@@ -659,6 +659,25 @@ a[title="Visit tracker"] {
   border-color: var(--term-line);
 }
 
+.page__footer {
+  color: var(--term-muted);
+  background: var(--term-bg);
+  border-top: 1px solid var(--term-line);
+  box-shadow: none;
+}
+
+.page__footer footer {
+  background: transparent;
+}
+
+.page__footer a,
+.page__footer .fas,
+.page__footer .fab,
+.page__footer .far,
+.page__footer .fal {
+  color: var(--term-muted);
+}
+
 body::-webkit-scrollbar,
 .news-list::-webkit-scrollbar,
 .research-map__figure::-webkit-scrollbar {

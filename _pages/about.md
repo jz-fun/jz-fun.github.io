@@ -487,7 +487,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors"><strong class="author-me">Sun, Z.<sup>†</sup></strong>; Li, E.; Zhao, Y.; Cheng, X.; Yuan, W.; Li, K.; Liu, C.; Liu, H.; Zhu, H. B. H.; Zeng, L.</span> (2026+).
-        <em><a class="paper-link" href="" target="_blank">SR-OPSD: Self-Referenced On-Policy Self-Distillation</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2608.09745" target="_blank">SR-OPSD: Self-Referenced On-Policy Self-Distillation</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2608.09745" target="_blank">arXiv</a>
@@ -503,7 +503,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Mu, Z.; Zhang, Y.; Yang, Y.; Wang, H.; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Liu, C.<sup>†</sup></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2605.26282" target="_blank">Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2605.26282" target="_blank">arXiv</a>
@@ -519,7 +519,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Zhao, Y.<sup>*</sup>; Cheng, X.<sup>*</sup>; Liu, H.<sup>*</sup>; He, B.; Zhang, Xin.; Zhu, H.; Chen, W.; Zeng, L.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Saliency-Aware Regularized Quantization Calibration for Large Language Models</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2605.05693" target="_blank">Saliency-Aware Regularized Quantization Calibration for Large Language Models</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2605.05693" target="_blank">arXiv</a>
@@ -537,7 +537,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X<sup>*</sup>; Wang, H.<sup>*</sup>; Yuan, W.; Wang, Z.; Chen, Z.; Zeng, L.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Fisher Decorator: Refining Flow Policy via A Local Transport Map</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2604.17919" target="_blank">Fisher Decorator: Refining Flow Policy via A Local Transport Map</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2604.17919" target="_blank">arXiv</a>
@@ -554,7 +554,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Outlier-Robust Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2602.02045" target="_blank">Outlier-Robust Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">arXiv</a>
@@ -571,7 +571,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Kiyohara, N.<sup>*</sup>; Zhu, BH.<sup>*</sup>; Hassanin, R.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong>; Chen, WL.<sup>†</sup>; Bhatt, S.; Li, YZ.<sup>†</sup></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
+        <em><a class="paper-link" href="https://arxiv.org/abs/2605.24330" target="_blank">Interdomain Attention: Beyond Token-Level Key-Value Memory</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2605.24330" target="_blank">arXiv</a>
@@ -614,7 +614,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X.<sup>*</sup>; Yuan, W.<sup>*</sup>; Li, B.; Xu, Y.; Yang, Y.; Liang, H.; Peng, B.; Loftin, R.; <strong class="author-me">Sun, Z.</strong>; Hu, Y.</span> (2026).
-        <em><a class="paper-link" href="" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em>
+        <em><a class="paper-link" href="https://icml.cc/virtual/2026/poster/61858" target="_blank">How Does the Lagrangian Guide Safe Reinforcement Learning through Diffusion Models?</a></em>
         In Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://www.arxiv.org/pdf/2602.02924" target="_blank">arXiv</a>
@@ -630,10 +630,10 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Li, K.; Yang, Y.; Chen, X.; He, Y.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Multilevel Control Functional.</a></em>
+        <em><a class="paper-link" href="https://openreview.net/forum?id=Ahdsg2nkNH" target="_blank">Multilevel Control Functional.</a></em>
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            <!-- <a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">arXiv</a> -->
+            <a class="pdf-link" href="https://arxiv.org/abs/2305.12996" target="_blank">arXiv</a>
             <a class="award-link" href="" target="_blank">With Score 8,8,8 (Rank 2nd over 19000 submissions)</a>
         </span>
     </div>
@@ -648,10 +648,10 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X.; Yuan, W.; Yang, Y.; Zhang, Y.; Cheng, S.; He, Y.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
-        <em><a class="paper-link" href="" target="_blank">Information Shapes Koopman Representation.</a></em>
+        <em><a class="paper-link" href="https://openreview.net/forum?id=Szh0ELyQxL" target="_blank">Information Shapes Koopman Representation.</a></em>
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            <!-- <a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">arXiv</a> -->
+            <a class="pdf-link" href="https://arxiv.org/abs/2510.13025" target="_blank">arXiv</a>
             <a class="award-link" href="" target="_blank">Selected for Oral Presentation (top 1.18%)</a>
         </span>
     </div>
@@ -667,10 +667,10 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X.; Yang, Y.; Jiang, W.; Yuan, C.; <strong class="author-me">Sun, Z.</strong>; Hu, Y.</span> (2026).
-        <em><a class="paper-link" href="" target="_blank">From Embedding to Control: Representations for Stochastic Multi-Object Systems.</a></em>
+        <em><a class="paper-link" href="https://openreview.net/forum?id=SZzpGvBRv5" target="_blank">From Embedding to Control: Representations for Stochastic Multi-Object Systems.</a></em>
         In International Conference on Learning Representations (ICLR 2026).
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
-            <!-- <a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">arXiv</a> -->
+            <a class="pdf-link" href="https://arxiv.org/abs/2510.26344" target="_blank">arXiv</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
         </span>
     </div>
@@ -704,7 +704,7 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Li, K.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>*</sup><sup>†</sup></strong></span> (2023).
-        <em><a class="paper-link" href="https://openreview.net/pdf?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version).</a></em>
+        <em><a class="paper-link" href="https://openreview.net/forum?id=8buHq9xP6F" target="_blank">Multilevel Control Functional (Short Version).</a></em>
         In ICML 2023 SPIGM.
     </div>
 </div>
@@ -753,8 +753,11 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Li, X.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>*</sup></strong>; Xue, J-H. ; Ma, Z.</span> (2021).
-        <em><a class="paper-link" href="" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em>
+        <em><a class="paper-link" href="https://doi.org/10.1016/j.neucom.2020.05.114" target="_blank">A Concise Review of Recent Few-shot Meta-learning Methods.</a></em>
         Neurocomputing.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            <a class="pdf-link" href="https://arxiv.org/abs/2005.10953" target="_blank">arXiv</a>
+        </span>
     </div>
 </div>
 
@@ -767,8 +770,11 @@ redirect_from:
     </div>
     <div class="paper-info">
         <span class="paper-authors">Li, X.<sup>*</sup>; Wu, J.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>*</sup></strong>; Ma, Z. ; Cao, J.; Xue, J-H.</span> (2020).
-        <em><a class="paper-link" href="" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em>
+        <em><a class="paper-link" href="https://doi.org/10.1109/TIP.2020.3043128" target="_blank">Bi-Similarity Network for Fine-grained Few-shot Image Classification.</a></em>
         IEEE Transactions on Image Processing.
+        <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
+            <a class="pdf-link" href="https://arxiv.org/abs/2011.14311" target="_blank">arXiv</a>
+        </span>
     </div>
 </div>
 
