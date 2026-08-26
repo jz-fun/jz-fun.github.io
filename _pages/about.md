@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
+<style media="not all">
+/* Legacy homepage styles are kept here for reference; the active visual system
+   lives in /assets/css/home-geek.css. */
 @media (min-width: 1024px) {
     #main {
         max-width: 1400px;
@@ -406,23 +408,52 @@ redirect_from:
 }
 </style>
 
-<section class="lab-hero">
-    <h2>Efficient Machine Learning Lab @ SUFE</h2>
-    <p>Zhuo Sun is a <strong>tenure-track Assistant Professor</strong> in the School of Statistics and Data Science at Shanghai University of Finance and Economics. His research has been recognized with best paper, oral paper, and spotlight paper distinctions across various research communities, and his work has also received industry recognition, including an Innovation &amp; Technological Breakthrough Award.</p>
-    <ul class="profile-notes">
-        <li>Visiting Researcher at Imperial College London</li>
-        <li><strong>Area Chair</strong>/Program Committee: ICML/ICLR/NeurIPS/AISTATS/UAI</li>
-        <li>Previously worked as a Research Scientist in the industry, leading projects on reinforcement learning and model compression for LLMs.</li>
-        <li>Ph.D. in Machine Learning and Computational Statistics from University College London, supervised by Prof. François-Xavier Briol and Prof. Jinghao-Xue; master's degree in statistical science from the University of Oxford, supervised by Prof. George Deligiannidis and mentored by Prof. Gesine Reinert.</li>
-    </ul>
-    <div class="contact-strip">
-        <span>Interested in the following research topics? Please feel free to get in touch.</span>
-        <a class="contact-button" href="mailto:zhuosunreid@outlook.com">zhuosunreid@outlook.com</a>
+<section class="terminal-home" aria-labelledby="terminal-title">
+    <div class="terminal-bar">
+        <span class="terminal-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>zhuo@efficient-ml — zsh</span>
+        <span class="terminal-state"><i></i> online</span>
+    </div>
+
+    <div class="terminal-screen">
+        <p class="terminal-command"><span class="terminal-prompt">zhuo@research:~$</span> whoami</p>
+        <h1 id="terminal-title">Zhuo Sun<span class="terminal-caret" aria-hidden="true">_</span></h1>
+        <p class="terminal-output">Tenure-track Assistant Professor @ SUFE<br>Building efficient, reliable, and scalable learning algorithms.</p>
+
+        <p class="terminal-command"><span class="terminal-prompt">zhuo@research:~$</span> cat focus.txt</p>
+        <p class="terminal-output terminal-focus">reinforcement_learning · foundation_models · probabilistic_ml · efficient_inference</p>
+
+        <dl class="terminal-meta">
+            <div><dt>role</dt><dd>Assistant Professor, School of Statistics and Data Science, SUFE</dd></div>
+            <div><dt>visiting</dt><dd>Imperial College London</dd></div>
+            <div><dt>service</dt><dd>ICML · ICLR · NeurIPS · AISTATS · UAI</dd></div>
+            <div><dt>training</dt><dd>Ph.D. UCL · M.Sc. Oxford</dd></div>
+        </dl>
+
+        <p class="terminal-command"><span class="terminal-prompt">zhuo@research:~$</span> ls ./profile</p>
+        <nav class="terminal-shortcuts" aria-label="Terminal commands">
+            <button type="button" data-terminal-command="about">about</button>
+            <button type="button" data-terminal-command="research">research</button>
+            <button type="button" data-terminal-command="papers">papers</button>
+            <button type="button" data-terminal-command="news">news</button>
+            <button type="button" data-terminal-command="contact">contact</button>
+        </nav>
+
+        <div id="terminal-response" class="terminal-response" aria-live="polite">
+            <span class="terminal-muted">Type <strong>help</strong> to list commands.</span>
+        </div>
+
+        <form id="terminal-form" class="terminal-form" autocomplete="off">
+            <label class="terminal-sr-only" for="terminal-input">Enter a terminal command</label>
+            <span class="terminal-prompt" aria-hidden="true">zhuo@research:~$</span>
+            <input id="terminal-input" name="command" type="text" spellcheck="false" autocapitalize="none" placeholder="help" aria-describedby="terminal-response">
+            <button type="submit">run</button>
+        </form>
     </div>
 </section>
 
 
-<section class="news-section">
+<section class="news-section" id="news">
     <h2>News</h2>
     <ul class="news-list">
         <li><span class="news-date">Jun 2026</span> — <em>Interdomain Attention: Beyond Token-Level Key-Value Memory</em> is released on arXiv and selected as a Spotlight Paper at the ICML 2026 Workshop on Foundations of Deep Generative Models.</li>
@@ -434,7 +465,7 @@ redirect_from:
 
 
 
-<section class="research-map">
+<section class="research-map" id="research-topics">
     <h2>Research Topics and Goals</h2>
     <p>We develop novel and efficient learning algorithms for modern artificial intelligence and theoretical machine learning problems.</p>
     <figure class="research-map__figure">
