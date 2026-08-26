@@ -15,7 +15,7 @@
       output: "available: <strong>about</strong> · <strong>research</strong> · <strong>papers</strong> · <strong>latest</strong> · <strong>news</strong> · <strong>contact</strong> · <strong>clear</strong>"
     },
     about: {
-      output: "Zhuo Sun — tenure-track Assistant Professor at SUFE.<br>Visiting Researcher at Imperial College London.<br>Ph.D. UCL · M.Sc. Oxford · Area Chair / PC across major ML venues."
+      output: "Zhuo Sun — tenure-track Assistant Professor at SUFE.<br><strong>Visiting Researcher</strong> at Imperial College London.<br><strong>Area Chair</strong> across major ML venues.<br>Research recognition: <strong>Best Paper · Oral Paper · Spotlight Paper</strong>.<br>Ph.D. UCL · M.Sc. Oxford."
     },
     research: {
       output: "opening <strong>research graph</strong>…<br>focus: modern AI algorithms × theoretical ML foundations",

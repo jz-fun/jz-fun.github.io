@@ -425,8 +425,9 @@ redirect_from:
 
         <dl class="terminal-meta">
             <div><dt>role</dt><dd>Assistant Professor, School of Statistics and Data Science, SUFE</dd></div>
-            <div><dt>visiting</dt><dd>Imperial College London</dd></div>
-            <div><dt>service</dt><dd>ICML · ICLR · NeurIPS · AISTATS · UAI</dd></div>
+            <div class="terminal-meta-priority"><dt>visiting_researcher</dt><dd><strong>Imperial College London</strong></dd></div>
+            <div class="terminal-meta-priority"><dt>academic_service</dt><dd><strong>Area Chair</strong> / PC across ICML · ICLR · NeurIPS · AISTATS · UAI</dd></div>
+            <div class="terminal-meta-recognition"><dt>recognition</dt><dd>Best Paper · Oral Paper · Spotlight Paper</dd></div>
             <div><dt>training</dt><dd>Ph.D. UCL · M.Sc. Oxford</dd></div>
         </dl>
 
