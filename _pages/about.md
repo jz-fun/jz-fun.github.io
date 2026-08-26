@@ -161,32 +161,6 @@ redirect_from:
     font-weight: 800;
 }
 
-.research-map {
-    margin: 1.4rem 0 1.7rem;
-}
-
-.research-map h2 {
-    margin-bottom: 0.55rem;
-}
-
-.research-map__figure {
-    margin: 0;
-    padding: 0.5rem;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 0.45rem;
-    box-shadow: 0 0.16rem 0.7rem rgba(15, 23, 42, 0.05);
-    overflow-x: auto;
-}
-
-.research-map__figure img {
-    display: block;
-    width: 100%;
-    min-width: 960px;
-    height: auto;
-    border-radius: 0.3rem;
-}
-
 .paper-entry {
     display: grid;
     grid-template-columns: 6rem minmax(0, 1fr);
@@ -466,18 +440,7 @@ redirect_from:
 
 
 
-<section class="research-map" id="research-topics">
-    <h2>Research Topics and Goals</h2>
-    <p>We develop novel and efficient learning algorithms for modern artificial intelligence and theoretical machine learning problems.</p>
-    <figure class="research-map__figure">
-        <img src="/images/research-topics-goals.svg" alt="Research topics and goals diagram">
-    </figure>
-</section>
-
-
-
-
-## Preprints & Working Papers
+## Publications & Preprints
 <small class="publication-note"><sup>*</sup> equal contribution; <sup>†</sup> corresponding author</small>
 <p class="publication-teaser">Stay tuned, more RL for LLMs and Agentic RL works are on the way.</p>
 
@@ -602,10 +565,6 @@ redirect_from:
 
 
 
-
-
-## Publications 📖
-<small class="publication-note"><sup>*</sup> equal contribution; <sup>†</sup> corresponding author</small>
 
 
 <div class="paper-entry">

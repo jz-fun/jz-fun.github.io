@@ -444,34 +444,6 @@ input:focus-visible {
   font-weight: 650;
 }
 
-.research-map {
-  margin: 0 0 2.4rem;
-}
-
-.research-map > p {
-  max-width: 49rem;
-  color: var(--term-muted) !important;
-  font-size: 0.7rem !important;
-  line-height: 1.7 !important;
-}
-
-.research-map__figure {
-  margin: 0.9rem 0 0;
-  padding: 0.35rem;
-  overflow-x: auto;
-  background: #080a0d;
-  border: 1px solid var(--term-line);
-  border-radius: 0.24rem;
-}
-
-.research-map__figure img {
-  display: block;
-  width: 100%;
-  min-width: 880px;
-  height: auto;
-  filter: invert(0.93) hue-rotate(180deg) saturate(0.72) brightness(0.78) contrast(1.08);
-}
-
 .paper-entry {
   display: grid;
   grid-template-columns: 5.2rem minmax(0, 1fr);
@@ -688,21 +660,18 @@ a[title="Visit tracker"] {
 }
 
 body::-webkit-scrollbar,
-.news-list::-webkit-scrollbar,
-.research-map__figure::-webkit-scrollbar {
+.news-list::-webkit-scrollbar {
   width: 0.45rem;
   height: 0.45rem;
 }
 
 body::-webkit-scrollbar-track,
-.news-list::-webkit-scrollbar-track,
-.research-map__figure::-webkit-scrollbar-track {
+.news-list::-webkit-scrollbar-track {
   background: var(--term-bg);
 }
 
 body::-webkit-scrollbar-thumb,
-.news-list::-webkit-scrollbar-thumb,
-.research-map__figure::-webkit-scrollbar-thumb {
+.news-list::-webkit-scrollbar-thumb {
   background: #30363d;
 }
 
@@ -755,10 +724,6 @@ body::-webkit-scrollbar-thumb,
 
   .paper-info {
     padding-top: 0.28rem;
-  }
-
-  .research-map__figure img {
-    min-width: 720px;
   }
 }
 

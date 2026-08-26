@@ -18,20 +18,19 @@
       output: "Zhuo Sun — tenure-track Assistant Professor at SUFE.<br><strong>Visiting Researcher</strong> at Imperial College London.<br><strong>Area Chair</strong> across major ML venues.<br>Research recognition: <strong>Best Paper · Oral Paper · Spotlight Paper</strong>.<br>Ph.D. UCL · M.Sc. Oxford."
     },
     research: {
-      output: "opening <strong>research graph</strong>…<br>focus: modern AI algorithms × theoretical ML foundations",
-      target: "#research-topics"
+      output: "focus: <strong>reinforcement learning · foundation models · probabilistic ML · efficient inference</strong><br>goal: efficient, reliable, and scalable learning algorithms"
     },
     papers: {
-      output: "opening <strong>preprints and publications</strong>…",
-      target: "#preprints--working-papers"
+      output: "opening <strong>publications and preprints</strong>…",
+      target: "#publications--preprints"
     },
     publications: {
       output: "opening <strong>publications</strong>…",
-      target: "#publications-"
+      target: "#publications--preprints"
     },
     latest: {
       output: "latest: <strong>SR-OPSD: Self-Referenced On-Policy Self-Distillation</strong> · <a href=\"https://arxiv.org/pdf/2608.09745\" target=\"_blank\" rel=\"noopener\">arXiv:2608.09745</a>",
-      target: "#preprints--working-papers"
+      target: "#publications--preprints"
     },
     news: {
       output: "streaming the latest research updates…",
