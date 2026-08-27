@@ -399,10 +399,9 @@ redirect_from:
 
         <dl class="terminal-meta">
             <div><dt>role</dt><dd>Assistant Professor, School of Statistics and Data Science, SUFE</dd></div>
-            <div class="terminal-meta-priority"><dt>visiting_researcher</dt><dd><strong>Imperial College London</strong></dd></div>
-            <div class="terminal-meta-priority"><dt>academic_service</dt><dd><strong>Area Chair</strong> / PC across ICML · ICLR · NeurIPS · AISTATS · UAI</dd></div>
+            <div><dt>visiting_researcher</dt><dd>Imperial College London</dd></div>
+            <div><dt>academic_service</dt><dd>Area Chair / PC across ICML · ICLR · NeurIPS · AISTATS · UAI</dd></div>
             <div class="terminal-meta-recognition"><dt>recognition</dt><dd>Best Paper · Oral Paper · Spotlight Paper</dd></div>
-            <div><dt>training</dt><dd>Ph.D. UCL · M.Sc. Oxford</dd></div>
         </dl>
 
         <p class="terminal-command"><span class="terminal-prompt">zhuo@research:~$</span> ls ./profile</p>
@@ -659,7 +658,7 @@ redirect_from:
 
 <div class="paper-entry">
     <div class="conf-badge venue-workshop">
-        <div class="conf-name">ICML SPIGM</div>
+        <div class="conf-name">ICML'W</div>
         <div class="year">2023</div>
     </div>
     <div class="paper-info">
