@@ -191,11 +191,11 @@ input:focus-visible {
 
 .terminal-home h1 {
   margin: 0 0 0.55rem;
-  color: #edf1f6;
+  color: #cbd3dc;
   font-family: var(--term-mono);
-  font-size: clamp(1.7rem, 5vw, 3rem);
-  font-weight: 700;
-  letter-spacing: -0.065em;
+  font-size: clamp(1.2rem, 3vw, 1.75rem);
+  font-weight: 600;
+  letter-spacing: -0.035em;
 }
 
 .terminal-caret {
