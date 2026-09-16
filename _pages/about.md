@@ -449,7 +449,7 @@ redirect_from:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors"><strong class="author-me">Sun, Z.<sup>†</sup></strong>; Li, E.; Zhao, Y.; Cheng, X.; Yuan, W.; Li, K.; Liu, C.; Liu, H.; Zhu, H. B. H.; Zeng, L.</span> (2026+).
+        <span class="paper-authors"><strong class="author-me">Sun, Z.</strong>; Li, E.; Zhao, Y.; Cheng, X.; Yuan, W.; Li, K.; Liu, C.; Liu, H.; Zhu, H. B. H.; Zeng, L.</span> (2026+).
         <em><a class="paper-link" href="https://arxiv.org/abs/2608.09745" target="_blank">SR-OPSD: Self-Referenced On-Policy Self-Distillation</a></em>
         arxiv.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
