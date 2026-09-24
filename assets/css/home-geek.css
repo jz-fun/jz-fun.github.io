@@ -1,16 +1,16 @@
 :root {
-  --term-bg: #0a0c0f;
-  --term-panel: #0d1014;
-  --term-line: #242a31;
-  --term-line-soft: #171c22;
-  --term-text: #c7ced8;
-  --term-muted: #737d89;
-  --term-dim: #4e5762;
-  --term-green: #8ee28e;
-  --term-cyan: #79c8d6;
-  --term-blue: #85aee8;
-  --term-amber: #d7b66f;
-  --term-red: #df7979;
+  --term-bg: #ffffff;
+  --term-panel: #ffffff;
+  --term-line: #d6dde6;
+  --term-line-soft: #edf1f5;
+  --term-text: #27313d;
+  --term-muted: #667085;
+  --term-dim: #98a2b3;
+  --term-green: #257a4b;
+  --term-cyan: #1f7485;
+  --term-blue: #3268a8;
+  --term-amber: #946200;
+  --term-red: #b54747;
   --term-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 }
 
@@ -37,7 +37,7 @@ input:focus-visible {
 }
 
 .masthead {
-  background: rgba(10, 12, 15, 0.94);
+  background: rgba(255, 255, 255, 0.94);
   border-bottom: 1px solid var(--term-line);
   box-shadow: none;
   backdrop-filter: blur(12px);
@@ -105,7 +105,7 @@ input:focus-visible {
   gap: 0.55rem;
   margin: 2.6rem 0 0.75rem;
   padding: 0 0 0.55rem;
-  color: #e2e7ee;
+  color: #253041;
   border-bottom: 1px solid var(--term-line);
   font-family: var(--term-mono);
   font-size: 0.94rem;
@@ -122,9 +122,9 @@ input:focus-visible {
   margin: 0 0 2.4rem;
   overflow: hidden;
   background: var(--term-panel);
-  border: 1px solid #30363d;
+  border: 1px solid var(--term-line);
   border-radius: 0.42rem;
-  box-shadow: 0 16px 45px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 12px 36px rgba(15, 23, 42, 0.08);
 }
 
 .terminal-bar {
@@ -134,7 +134,7 @@ input:focus-visible {
   min-height: 2.25rem;
   padding: 0 0.75rem;
   color: var(--term-dim);
-  background: #11151a;
+  background: #f6f8fa;
   border-bottom: 1px solid var(--term-line);
   font-size: 0.58rem;
   text-align: center;
@@ -191,7 +191,7 @@ input:focus-visible {
 
 .terminal-home h1 {
   margin: 0 0 0.55rem;
-  color: #cbd3dc;
+  color: #27313d;
   font-family: var(--term-mono);
   font-size: clamp(1.2rem, 3vw, 1.75rem);
   font-weight: 600;
@@ -205,7 +205,7 @@ input:focus-visible {
 
 .terminal-output {
   margin: 0 0 1.7rem !important;
-  color: #99a3af !important;
+  color: #5f6b79 !important;
   font-size: clamp(0.72rem, 1.5vw, 0.84rem) !important;
   line-height: 1.75 !important;
 }
@@ -248,7 +248,7 @@ input:focus-visible {
 
 .terminal-meta dd {
   margin: 0;
-  color: #909aa6;
+  color: #5f6b79;
 }
 
 .terminal-meta-recognition dd {
@@ -292,7 +292,7 @@ input:focus-visible {
   min-height: 2.6rem;
   margin: 0.9rem 0;
   padding: 0.62rem 0;
-  color: #9da7b3;
+  color: #5f6b79;
   border-top: 1px dashed var(--term-line);
   border-bottom: 1px dashed var(--term-line);
   font-size: 0.65rem;
@@ -337,7 +337,7 @@ input:focus-visible {
 .terminal-form input {
   min-width: 0;
   padding: 0.4rem 0;
-  color: #dfe5ed;
+  color: #27313d;
   background: transparent;
   border: 0;
   border-bottom: 1px solid var(--term-line);
@@ -347,7 +347,7 @@ input:focus-visible {
 }
 
 .terminal-form input::placeholder {
-  color: #3e464f;
+  color: #98a2b3;
 }
 
 .terminal-form input:focus {
@@ -429,7 +429,7 @@ input:focus-visible {
 .news-list li {
   position: relative;
   margin: 0.4rem 0;
-  color: #929ca8 !important;
+  color: #5f6b79 !important;
   font-size: 0.67rem !important;
   line-height: 1.6 !important;
   counter-increment: news-line;
@@ -503,7 +503,7 @@ input:focus-visible {
 }
 
 .conf-badge.venue-preprint {
-  color: #aa96cf;
+  color: #7c5ca6;
   background: transparent;
   border: 0;
 }
@@ -529,7 +529,7 @@ input:focus-visible {
 .paper-info {
   min-width: 0;
   padding: 0.68rem 0 0.72rem;
-  color: #969faa;
+  color: #596675;
   background: transparent;
   border: 0;
   border-radius: 0;
@@ -539,17 +539,17 @@ input:focus-visible {
 }
 
 .paper-info strong {
-  color: #d8dee7;
+  color: #27313d;
   font-size: inherit;
   font-weight: 650;
 }
 
 .paper-authors {
-  color: #78828e;
+  color: #687586;
 }
 
 .author-me {
-  color: #e0e5ec;
+  color: #1f2937;
   text-decoration-color: var(--term-green);
   text-underline-offset: 0.18em;
 }
@@ -571,7 +571,7 @@ input:focus-visible {
 }
 
 .paper-link[href=""] {
-  color: #bcc4ce;
+  color: #667085;
   pointer-events: none;
 }
 
@@ -615,7 +615,7 @@ input:focus-visible {
 }
 
 .pdf-link:hover {
-  color: #c9f2c9;
+  color: #145a32;
 }
 
 .pdf-link[href=""] {
@@ -634,7 +634,7 @@ a[title="Visit tracker"] {
   max-width: 28rem;
   margin: 2.5rem auto 0;
   opacity: 0.2;
-  filter: grayscale(1) invert(1);
+  filter: grayscale(1);
 }
 
 .page__meta,
@@ -676,7 +676,7 @@ body::-webkit-scrollbar-track,
 
 body::-webkit-scrollbar-thumb,
 .news-list::-webkit-scrollbar-thumb {
-  background: #30363d;
+  background: #c7ced8;
 }
 
 @keyframes term-blink {
