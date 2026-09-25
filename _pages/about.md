@@ -551,7 +551,7 @@ redirect_from:
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors">Guo, S.; Cheng, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
+        <span class="paper-authors">Guo, S.<sup>*</sup>; Cheng, X.<sup>*</sup>; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
         <em><a class="paper-link" href="" target="_blank">Random-Projection Tree Stein Variational Gradient Descent</a></em>
         In The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
