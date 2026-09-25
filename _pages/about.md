@@ -494,14 +494,14 @@ redirect_from:
 
 
 <div class="paper-entry">
-    <div class="conf-badge venue-preprint">
-        <div class="conf-name">arxiv</div>
+    <div class="conf-badge">
+        <div class="conf-name">NeurIPS</div>
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Cheng, X<sup>*</sup>; Wang, H.<sup>*</sup>; Yuan, W.; Wang, Z.; Chen, Z.; Zeng, L.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
         <em><a class="paper-link" href="https://arxiv.org/abs/2604.17919" target="_blank">Fisher Decorator: Refining Flow Policy via A Local Transport Map</a></em>
-        arxiv.
+        In The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2604.17919" target="_blank">arXiv</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
@@ -511,14 +511,14 @@ redirect_from:
 
 
 <div class="paper-entry">
-    <div class="conf-badge venue-preprint">
-        <div class="conf-name">arxiv</div>
+    <div class="conf-badge">
+        <div class="conf-name">NeurIPS</div>
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
         <span class="paper-authors">Yang, Y.; Cheng, X.; He, Y.; Li, K.; Yuan W.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
         <em><a class="paper-link" href="https://arxiv.org/abs/2602.02045" target="_blank">Outlier-Robust Diffusion Posterior Sampling for Bayesian Inverse Problems</a></em>
-        arxiv.
+        In The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="https://arxiv.org/pdf/2602.02045" target="_blank">arXiv</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
@@ -546,14 +546,14 @@ redirect_from:
 
 
 <div class="paper-entry">
-    <div class="conf-badge venue-workshop">
-        <div class="conf-name">ICML'W</div>
+    <div class="conf-badge">
+        <div class="conf-name">NeurIPS</div>
         <div class="year">2026</div>
     </div>
     <div class="paper-info">
-        <span class="paper-authors">Guo, S.; Cheng, X.; Liu, X.; Niu, Z.; Chen, Z.; Liu, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
+        <span class="paper-authors">Guo, S.; Cheng, X.; <strong class="author-me">Sun, Z.<sup>†</sup></strong></span> (2026).
         <em><a class="paper-link" href="" target="_blank">Random-Projection Tree Stein Variational Gradient Descent</a></em>
-        In ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling.
+        In The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
         <span style="margin-left: 8px; font-size: 0.75rem; color: #666;">
             <a class="pdf-link" href="" target="_blank">arXiv</a>
             <!-- [<a href="https://github.com/username/project" target="_blank">Code</a> -->
