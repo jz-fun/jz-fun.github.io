@@ -430,6 +430,7 @@ redirect_from:
 <section class="news-section" id="news">
     <h2>News</h2>
     <ul class="news-list">
+        <li><span class="news-date">Sep 2026</span> — 3 papers are accepted to NeurIPS 2026!</li>
         <li><span class="news-date">Jun 2026</span> — <em>Interdomain Attention: Beyond Token-Level Key-Value Memory</em> is released on arXiv and selected as a Spotlight Paper at the ICML 2026 Workshop on Foundations of Deep Generative Models.</li>
         <li><span class="news-date">Apr 2026</span> — 1 paper is accepted to ICML 2026!</li>
         <li><span class="news-date">Feb 2026</span> — <em>Information Shapes Koopman Representation</em> is selected as an Oral Paper at ICLR 2026!</li>
